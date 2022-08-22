@@ -4,7 +4,7 @@ public class orderAgnositcBinarySerach {
     public static void main(String[] args) {
 //        int[] arr = {1, 2, 5, 6, 8, 9, 15, 45};
         int[] arr = {70, 69, 54, 47, 42, 32, 17, 12, 3};
-        int target = 54;
+        int target = 17;
         int ans = orderBinary(arr, target);
         System.out.println(ans);
     }

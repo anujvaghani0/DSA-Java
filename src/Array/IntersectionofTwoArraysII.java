@@ -24,7 +24,6 @@ public class IntersectionofTwoArraysII {
                 p1++;
             } else if (nums1[p1] > nums2[p2]) {
                 p2++;
-
             } else {
                 ans.add(nums1[p1]);
                 p1++;

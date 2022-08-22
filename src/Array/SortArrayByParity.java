@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SortArrayByParity {
     public static void main(String[] args) {
-        int[] nums = {5,9,7,3,2,4,6,8};
+        int[] nums = {5, 9, 7, 3, 2, 4, 6, 8};
         int[] ans = sortArrayByParity(nums);
         System.out.println(Arrays.toString(ans));
     }

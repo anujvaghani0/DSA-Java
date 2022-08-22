@@ -9,9 +9,9 @@ public class SetMatrixZeroes {
                 {1, 0, 1},
                 {1, 1, 1}
         };
-//     int[][] ans=new int[arr.length][arr.length];
-//        System.out.println(Arrays.toString(ans));
-        setZeroes(arr);
+     int[][] ans=new int[arr.length][arr.length];
+        setZeroes(ans);
+        System.out.println(Arrays.toString(ans));
     }
 
 
