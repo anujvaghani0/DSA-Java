@@ -1,21 +1,20 @@
 package Patterns;
 
-public class diamonds1 {
+public class patterns30 {
     public static void main(String[] args) {
-    patten(5);
+        pattern(50);
     }
 
-    public static void patten(int n) {
+    public static void pattern(int n) {
         for (int row = 1; row <= n; row++) {
-            for (int space = 0; space < n - row; space++) {
+            for (int s = 1; s <= n - row; s++) {
                 System.out.print("  ");
             }
-
-            for (int col = row; col >= 1; col--) {
+            for (int col = row; col > 0; col--) {
                 System.out.print(col + " ");
             }
-            for (int col = 2; col <= row; col++) {
-                System.out.print(col + " ");
+            for (int col = 1; col <= row - 1; col++) {
+                System.out.print((col + 1) + " ");
             }
             System.out.println();
         }

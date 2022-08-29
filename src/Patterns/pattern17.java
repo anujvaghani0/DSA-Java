@@ -1,18 +1,16 @@
 package Patterns;
 
-public class p17 {
+public class pattern17 {
     public static void main(String[] args) {
-    patten(5);
+        patten(4);
     }
 
     public static void patten(int n) {
         for (int row = 1; row <= n * 2; row++) {
-
             int c = row > n ? 2 * n - row : row;
             for (int space = 0; space < n - c; space++) {
                 System.out.print("  ");
             }
-
             for (int col = c; col >= 1; col--) {
                 System.out.print(col + " ");
             }
