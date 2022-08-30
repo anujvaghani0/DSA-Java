@@ -1,10 +1,11 @@
 package Patterns;
 
-public class patterns33 {
+public class pattern35 {
     public static void main(String[] args) {
 
     }
-    public static void patterns(int n){
+
+    public static void main(int n){
 
     }
 }

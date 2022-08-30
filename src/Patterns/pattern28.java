@@ -1,25 +1,25 @@
 package Patterns;
 
-public class pattern12 {
+public class pattern28 {
     public static void main(String[] args) {
-        patten(5);
+        pattern(5);
     }
 
-    public static void patten(int n) {
-        for (int row = 0; row < 2 * n; row++) {
+    public static void pattern(int n) {
+        for (int row = 0; row < n * 2; row++) {
             if (row <= n - 1) {
-                for (int spece = 1; spece <= row; spece++) {
+                for (int s = 0; s < n - row - 1; s++) {
                     System.out.print(" ");
                 }
-                for (int col = n - row; col > 0; col--) {
+                for (int col = 0; col <= row; col++) {
                     System.out.print("X ");
                 }
             }
             if (row >= n) {
-                for (int spece = n * 2 - row - 1; spece > 0; spece--) {
+                for (int spece = 0; spece <= row - n; spece++) {
                     System.out.print(" ");
                 }
-                for (int col = 0; col <= row - n; col++) {
+                for (int col = 0; col < n * 2 - row - 1; col++) {
                     System.out.print("X ");
                 }
             }

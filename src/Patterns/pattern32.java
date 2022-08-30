@@ -1,21 +1,17 @@
 package Patterns;
 
-import java.sql.SQLOutput;
-
-public class patterns26 {
+public class pattern32 {
     public static void main(String[] args) {
-        pattern(6);
+        pattern(5);
     }
 
     public static void pattern(int n) {
-        int ans=1;
+        int c = 65;
         for (int row = 0; row < n; row++) {
-            for (int col = n - row; col > 0; col--) {
-                System.out.print(ans+" ");
+            for (int col = row; col >= 0; col--) {
+                System.out.print((char) (c + (n - col - 1)) + " ");
             }
-            ans++;
             System.out.println();
         }
-
     }
 }

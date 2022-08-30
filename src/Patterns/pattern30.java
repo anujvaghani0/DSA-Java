@@ -1,8 +1,8 @@
 package Patterns;
 
-public class patterns30 {
+public class pattern30 {
     public static void main(String[] args) {
-        pattern(50);
+        pattern(5);
     }
 
     public static void pattern(int n) {

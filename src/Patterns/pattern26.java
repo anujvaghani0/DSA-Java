@@ -1,17 +1,19 @@
 package Patterns;
 
-public class patterns32 {
+public class pattern26 {
     public static void main(String[] args) {
-        pattern(5);
+        pattern(6);
     }
 
     public static void pattern(int n) {
-        int c = 65;
+        int ans=1;
         for (int row = 0; row < n; row++) {
-            for (int col = row; col >= 0; col--) {
-                System.out.print((char) (c + (n - col - 1)) + " ");
+            for (int col = n - row; col > 0; col--) {
+                System.out.print(ans+" ");
             }
+            ans++;
             System.out.println();
         }
+
     }
 }

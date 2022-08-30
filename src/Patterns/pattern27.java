@@ -7,6 +7,7 @@ public class pattern27 {
 
     public static void pattern(int n) {
         int ans = 1;
+        int ans2 = ans;
         for (int row = 0; row < n; row++) {
             for (int s = 0; s < row; s++) {
                 System.out.print("  ");
@@ -15,11 +16,11 @@ public class pattern27 {
                 System.out.print(ans + " ");
                 ans++;
             }
-//            for (int col = 0; col < n - row; col++) {
-//                System.out.print(ans + " ");
-//                ans++;
-//            }
-
+            for (int col = n + 1; col <= n * 2 - row; col++) {
+                System.out.print((ans2) + " ");
+                ans2++;
+            }
+//            ans2--;
             System.out.println();
         }
     }
