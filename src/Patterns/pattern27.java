@@ -6,22 +6,26 @@ public class pattern27 {
     }
 
     public static void pattern(int n) {
-        int ans = 1;
-        int ans2 = ans;
+        int left = 1;
+        int k = n;
+        int value = n * (n - 1) + n + 1;
+        int right = value;
         for (int row = 0; row < n; row++) {
             for (int s = 0; s < row; s++) {
                 System.out.print("  ");
             }
             for (int col = n - row; col > 0; col--) {
-                System.out.print(ans + " ");
-                ans++;
+                System.out.print(left + " ");
+                left++;
             }
-            for (int col = n + 1; col <= n * 2 - row; col++) {
-                System.out.print((ans2) + " ");
-                ans2++;
+            for (int col = 0; col < n - row; col++) {
+                System.out.print(right + " ");
+                right++;
             }
-//            ans2--;
             System.out.println();
+            k--;
+            right = value - k;
+            value = right;
         }
     }
 }

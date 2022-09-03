@@ -8,17 +8,17 @@ public class pattern33 {
     public static void pattern(int n) {
         int lower = 97;
         int upper = 65;
-        boolean k = true;
+        boolean flag = true;
         for (int row = 0; row < n; row++) {
             for (int col = 0; col <= row; col++) {
-                if (k) {
+                if (flag) {
                     System.out.print((char) (lower) + " ");
-                    k = false;
+                    flag = false;
                     upper++;
                     lower++;
                 } else {
                     System.out.print((char) (upper) + " ");
-                    k = true;
+                    flag = true;
                     lower++;
                     upper++;
                 }
