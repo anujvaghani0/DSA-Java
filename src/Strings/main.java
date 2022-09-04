@@ -33,12 +33,16 @@ public class main {
 //            }
 //        }
 
-       String s1="rohit";
-       String s2="r1ohit";
-       String[] w1={"anuj","anuj100"};
-       String[] w11={"anuj","anuj100"};
-        System.out.println(s1+s2);
-        System.out.println(s1.substring(0,2));
+        String s1 = "rohit";
+        String s2 = "r1ohit";
+        String[] w1 = {"anuj", "anuj100"};
+        String[] w11 = {"anuj", "anuj100"};
+        System.out.println(s1 + s2);
+        System.out.println(s1.substring(0, 2));
 //        System.out.println(27/26);
+
+        String s = "Let's take LeetCode contest";
+        String[] arr = s.split(" ");
+        System.out.println(Arrays.toString(arr));
     }
 }
