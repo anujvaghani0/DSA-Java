@@ -23,7 +23,6 @@ public class IterativeProgramToPrintDuplicatSubsequences {
         int end = 0;
         int start = 0;
         for (int i = 0; i < arr.length; i++) {
-//            start=0;
             if (i > 0 && arr[i] == arr[i - 1]) {
                 start = end + 1;
             }

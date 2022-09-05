@@ -1,6 +1,5 @@
 package Strings;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class main {
