@@ -2,7 +2,7 @@ package Arrays;
 
 public class palindrome {
     public static void main(String[] args) {
-        int n = 454;
+        int n = -121;
         System.out.println(palindrome(n));
     }
 

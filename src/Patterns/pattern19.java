@@ -19,17 +19,17 @@ public class pattern19 {
             System.out.println();
         }
 
-//        for (int row = 0; row < n; row++) {
-//            for (int col = 0; col <= (2 * n) - 1; col++) {
-//                if (col <= n - row - 2) {
-//                    System.out.print("X");
-//                } else if (col <= n - row && col<=row+2) {
-//                    System.out.print(" ");
-//                } else {
-//                    System.out.print("X");
-//                }
-//            }
-//            System.out.println();
-//        }
+        for (int row = n - 1; row > 0; row--) {
+            for (int col = 0; col <= (2 * n) - 1; col++) {
+                if (row > col) {
+                    System.out.print("X");
+                } else if (col < n * 2 - row) {
+                    System.out.print(" ");
+                } else {
+                    System.out.print("X");
+                }
+            }
+            System.out.println();
+        }
     }
 }

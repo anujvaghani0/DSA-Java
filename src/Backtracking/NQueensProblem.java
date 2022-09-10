@@ -4,8 +4,8 @@ public class NQueensProblem {
     public static void main(String[] args) {
         int n = 4;
         boolean[][] board = new boolean[n][n];
-//        System.out.println(Queens(board, 0));
-        Queens(board,0);
+        System.out.println(Queens(board, 0));
+//        Queens(board,0);
     }
 
     public static int Queens(boolean[][] board, int row) {

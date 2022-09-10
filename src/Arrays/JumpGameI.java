@@ -5,8 +5,9 @@ public class JumpGameI {
         int[] nums = {2, 3, 1, 1, 4};
         System.out.println(jump(nums));
     }
-    public static boolean jump(int[] nums){
-        int i=0;
+
+    public static boolean jump(int[] nums) {
+        int i = 0;
         for (int reach = 0; i < nums.length && i <= reach; i++) {
             reach = Math.max(i + nums[i], reach);
         }
