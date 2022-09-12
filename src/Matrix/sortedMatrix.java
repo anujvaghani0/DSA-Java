@@ -1,4 +1,4 @@
-package Searching;
+package Matrix;
 
 import java.util.Arrays;
 

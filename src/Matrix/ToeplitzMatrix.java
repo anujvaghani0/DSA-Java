@@ -1,4 +1,5 @@
-package Arrays;
+package Matrix;
+
 
 public class ToeplitzMatrix {
     public static void main(String[] args) {

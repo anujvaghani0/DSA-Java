@@ -1,4 +1,4 @@
-package Arrays;
+package Matrix;
 
 import java.util.Scanner;
 

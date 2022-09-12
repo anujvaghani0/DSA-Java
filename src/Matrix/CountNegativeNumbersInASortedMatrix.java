@@ -1,4 +1,4 @@
-package Arrays;
+package Matrix;
 
 public class CountNegativeNumbersInASortedMatrix {
     public static void main(String[] args) {

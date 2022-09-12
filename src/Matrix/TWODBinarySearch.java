@@ -1,4 +1,4 @@
-package Searching;
+package Matrix;
 
 public class TWODBinarySearch {
     public static void main(String[] args) {

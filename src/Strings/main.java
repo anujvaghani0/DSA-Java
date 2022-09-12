@@ -43,5 +43,7 @@ public class main {
         String s = "Let's take LeetCode contest";
         String[] arr = s.split(" ");
         System.out.println(Arrays.toString(arr));
+
+        System.out.println(s1+s2);
     }
 }
