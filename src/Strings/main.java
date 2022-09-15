@@ -45,5 +45,6 @@ public class main {
         System.out.println(Arrays.toString(arr));
 
         System.out.println(s1+s2);
+        System.out.println(Integer.toString((s1.charAt(0))));
     }
 }
