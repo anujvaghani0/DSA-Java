@@ -40,11 +40,19 @@ public class main {
         System.out.println(s1.substring(0, 2));
 //        System.out.println(27/26);
 
-        String s = "Let's take LeetCode contest";
+//        String s = "Let's take LeetCode contest";
+        String s="anujvaghani";
         String[] arr = s.split(" ");
         System.out.println(Arrays.toString(arr));
 
         System.out.println(s1+s2);
         System.out.println(Integer.toString((s1.charAt(0))));
+
+        System.out.println(s.substring(1));
+
+        System.out.println(s.equals(s.toLowerCase()));
+
+        StringBuilder ans=new StringBuilder(s);
+        System.out.println(ans.delete(0,1));
     }
 }

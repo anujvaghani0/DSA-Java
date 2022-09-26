@@ -1,6 +1,8 @@
 package sorting;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class BubbleSort {
     public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class BubbleSort {
         bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
+
     public static void bubbleSort(int[] arr) {
         int temp;
         for (int i = 0; i < arr.length; i++) {

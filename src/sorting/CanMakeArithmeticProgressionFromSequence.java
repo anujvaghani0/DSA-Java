@@ -10,9 +10,9 @@ public class CanMakeArithmeticProgressionFromSequence {
 
     public static boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
-        int diffrent = arr[1] - arr[0];
+        int different = arr[1] - arr[0];
         for (int i = 0; i < arr.length - 1; i++) {
-            if (arr[i + 1] - arr[i] != diffrent) {
+            if (arr[i + 1] - arr[i] != different) {
                 return false;
             }
         }
