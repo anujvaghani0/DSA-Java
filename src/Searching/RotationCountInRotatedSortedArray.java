@@ -2,8 +2,8 @@ package Searching;
 
 public class RotationCountInRotatedSortedArray {
     public static void main(String[] args) {
-//    int[] arr={5, 1, 2, 3, 4};
-        int[] arr = {1, 2, 3, 4, 5};
+    int[] arr={5, 1, 2, 3, 4};
+//        int[] arr = {1, 2, 3, 4, 5};
         System.out.println(count(arr));
     }
 

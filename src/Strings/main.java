@@ -53,6 +53,7 @@ public class main {
         System.out.println(s.equals(s.toLowerCase()));
 
         StringBuilder ans=new StringBuilder(s);
-        System.out.println(ans.delete(0,1));
+//        System.out.println(ans.delete(0,1));
+//     ans.append(0);
     }
 }
