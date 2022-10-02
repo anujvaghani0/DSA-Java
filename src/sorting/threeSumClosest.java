@@ -19,7 +19,6 @@ public class threeSumClosest {
                 if (Math.abs(target - sum) < Math.abs(difference)) {
                     difference = target - sum;
                 }
-
                 if (sum > target) {
                     right--;
                 } else {
