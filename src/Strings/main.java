@@ -55,5 +55,10 @@ public class main {
         StringBuilder ans=new StringBuilder(s);
 //        System.out.println(ans.delete(0,1));
 //     ans.append(0);
+        int[] ans8=new int[3];
+        System.out.println(Arrays.toString(ans8));
+
+        String temp="$25";
+        System.out.println(temp.substring(1,temp.length()));
     }
 }
