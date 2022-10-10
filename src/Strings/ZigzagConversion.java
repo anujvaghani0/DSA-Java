@@ -8,7 +8,6 @@ public class ZigzagConversion {
     public static String convert(String s, int numRows) {
         char[] c = s.toCharArray();
         int length = c.length;
-//        StringBuilder[] ans = new StringBuilder[numRows];
         StringBuffer[] ans=new StringBuffer[numRows];
         for (int i = 0; i < ans.length; i++) {
             ans[i] = new StringBuffer();

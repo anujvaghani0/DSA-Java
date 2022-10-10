@@ -60,5 +60,7 @@ public class main {
 
         String temp="$25";
         System.out.println(temp.substring(1,temp.length()));
+        System.out.println(temp.charAt(1)+temp.charAt(2));
+        System.out.println(temp.charAt(1)-'0');
     }
 }
