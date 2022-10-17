@@ -2,9 +2,7 @@ package Arrays;
 
 //question link -> https://leetcode.com/problems/decompress-run-length-encoded-list/
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class DecompressRunLengthEncodedList {
     public static void main(String[] args) {
