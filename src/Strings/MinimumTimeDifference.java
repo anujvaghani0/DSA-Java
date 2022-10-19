@@ -1,10 +1,12 @@
 package Strings;
 
+//question link -> https://leetcode.com/problems/minimum-time-difference/
+
 import java.util.List;
 
 public class MinimumTimeDifference {
     public static void main(String[] args) {
-        String[] timepoints = {"23:59", "00:00", "00:00"};
+        String[] timepoints = {"23:59", "00:00"};
         System.out.println(findMinDifference(List.of(timepoints)));
     }
 

@@ -7,7 +7,7 @@ public class pattern11 {
 
     public static void patten(int n) {
         for (int row = 0; row < n; row++) {
-            for (int spece = n - row - 1; spece > 0; spece--) {
+            for (int space = n - row - 1; space > 0; space--) {
                 System.out.print(" ");
             }
             for (int col = 0; col <= row; col++) {

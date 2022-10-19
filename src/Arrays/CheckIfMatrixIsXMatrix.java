@@ -2,7 +2,7 @@ package Arrays;
 
 public class CheckIfMatrixIsXMatrix {
     public static void main(String[] args) {
-    int[][] matrix={{2,0,0,1},{0,3,1,0},{0,5,2,0},{1,0,0,2}};
+        int[][] matrix = {{2, 0, 0, 1}, {0, 3, 1, 0}, {0, 5, 2, 0}, {1, 0, 0, 2}};
         System.out.println(checkXMatrix(matrix));
     }
 
