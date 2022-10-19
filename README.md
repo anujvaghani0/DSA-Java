@@ -6,11 +6,11 @@
 
 #### [Arrays](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Arrays) | [Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings) | [Matrix](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Matrix) | [Patterns](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Patterns) 
 
-#### [Recursion Programs](java_datastructures_algorithms/recursion_programs) | [Backtracking](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Backtracking)
+#### [Recursion Programs](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Recursion) | [Backtracking](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Backtracking)
 
-#### [Searching](https://github.com/anujvaghani0/DSA-Java/tree/master/src/sorting) | [Sorting](https://github.com/anujvaghani0/DSA-Java/tree/master/src/sorting) | [Math](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math)
+#### [Searching](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Searching) | [Sorting](https://github.com/anujvaghani0/DSA-Java/tree/master/src/sorting) | [Math](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math)
 
-#### [Linked Lists](java_datastructures_algorithms/linked_lists) | [Stacks](java_datastructures_algorithms/stacks) | [Queues](java_datastructures_algorithms/queues) 
+#### [Linked Lists](https://github.com/anujvaghani0/DSA-Java/tree/master/src/LinkedList) | [Stacks](java_datastructures_algorithms/stacks) | [Queues](java_datastructures_algorithms/queues) 
 
 #### [BSTs](java_datastructures_algorithms/bst) | [Heap](java_datastructures_algorithms/heap) | [Hashing](java_datastructures_algorithms/hashing) 
 
