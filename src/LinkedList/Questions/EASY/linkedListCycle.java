@@ -1,40 +1,23 @@
-package LinkedList.Questions.MEDIUM;
+package LinkedList.Questions.EASY;
 
+//question link -> https://leetcode.com/problems/linked-list-cycle/
 
-public class LL {
+public class linkedListCycle {
 
-    //question link -> https://leetcode.com/problems/linked-list-cycle-ii/
-    public ListNode detectCycle(ListNode head) {
-        int length = 0;
+    public boolean hasCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
         while (fast != null && fast.next != null) {
             fast = fast.next.next;
             slow = slow.next;
             if (fast == slow) {
-                length = lengthCycle(slow);
-                break;
+                return true;
             }
         }
-
-        if (length == 0) {
-            return null;
-        }
-
-        ListNode f = head;
-        ListNode s = head;
-        while (length > 0) {
-            s = s.next;
-            length--;
-        }
-
-        while (f != s) {
-            f = f.next;
-            s = s.next;
-        }
-        return f;
+        return false;
     }
 
+    //    Find the length of the cycle
     public int lengthCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
@@ -54,12 +37,7 @@ public class LL {
         return 0;
     }
 
-    //question link -> https://leetcode.com/problems/reverse-linked-list-ii/
-
-
-
-
-    public class ListNode {
+    class ListNode {
         int val;
         ListNode next;
 

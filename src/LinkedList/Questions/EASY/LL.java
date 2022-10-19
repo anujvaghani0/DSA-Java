@@ -90,27 +90,6 @@ public class LL {
         return ans;
     }
 
-    //question link -> https://leetcode.com/problems/reverse-linked-list/
-
-    public ListNode reverseList(ListNode head) {
-        if (head==null){
-            return head;
-        }
-        ListNode previous = null;
-        ListNode present = head;
-        ListNode next = present.next;
-
-        while (present != null) {
-            present.next = previous;
-            previous = present;
-            present = next;
-            if (next != null) {
-                next = next.next;
-            }
-        }
-        return previous;
-    }
-
 
     public static class ListNode {
         private int val;
