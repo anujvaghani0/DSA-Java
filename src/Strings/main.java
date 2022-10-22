@@ -62,5 +62,9 @@ public class main {
         System.out.println(temp.substring(1,temp.length()));
         System.out.println(temp.charAt(1)+temp.charAt(2));
         System.out.println(temp.charAt(1)-'0');
+
+
+        int first=Integer.parseInt("15");
+        System.out.println(first);
     }
 }

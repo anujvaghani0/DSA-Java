@@ -1,5 +1,7 @@
 package Strings;
 
+//question link -> https://leetcode.com/problems/zigzag-conversion/
+
 public class ZigzagConversion {
     public static void main(String[] args) {
         System.out.println(convert("PAYPALISHIRING", 4));
