@@ -41,30 +41,35 @@ public class main {
 //        System.out.println(27/26);
 
 //        String s = "Let's take LeetCode contest";
-        String s="anujvaghani";
+        String s = "anujvaghani";
         String[] arr = s.split(" ");
         System.out.println(Arrays.toString(arr));
 
-        System.out.println(s1+s2);
+        System.out.println(s1 + s2);
         System.out.println(Integer.toString((s1.charAt(0))));
 
         System.out.println(s.substring(1));
 
         System.out.println(s.equals(s.toLowerCase()));
 
-        StringBuilder ans=new StringBuilder(s);
+        StringBuilder ans = new StringBuilder(s);
 //        System.out.println(ans.delete(0,1));
 //     ans.append(0);
-        int[] ans8=new int[3];
+        int[] ans8 = new int[3];
         System.out.println(Arrays.toString(ans8));
 
-        String temp="$25";
-        System.out.println(temp.substring(1,temp.length()));
-        System.out.println(temp.charAt(1)+temp.charAt(2));
-        System.out.println(temp.charAt(1)-'0');
+        String temp = "$25";
+        System.out.println(temp.substring(1, temp.length()));
+        System.out.println(temp.charAt(1) + temp.charAt(2));
+        System.out.println(temp.charAt(1) - '0');
 
 
-        int first=Integer.parseInt("15");
+        int first = Integer.parseInt("15");
         System.out.println(first);
+
+
+        String to = "12:251";
+        System.out.println(to.substring(0, 2));
+        System.out.println(to.substring(3));
     }
 }

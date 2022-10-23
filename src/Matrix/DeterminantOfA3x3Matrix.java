@@ -12,12 +12,16 @@ public class DeterminantOfA3x3Matrix {
                 arr[i][j] = sc.nextInt();
             }
         }
+        System.out.println("ans is " + determinant(arr));
+    }
+
+    private static int determinant(int[][] arr) {
         int x, y, z = 0;
         int determinant = 0;
         x = (arr[1][1] * arr[2][2]) - (arr[2][1] * arr[1][2]);
         y = (arr[1][0] * arr[2][2]) - (arr[2][0] * arr[1][2]);
         z = (arr[1][0] * arr[2][1]) - (arr[2][0] * arr[1][1]);
         determinant = (arr[0][0] * x) - (arr[0][1] * y) + (arr[0][2] * z);
-        System.out.println("Ans:- "+determinant);
+        return determinant;
     }
 }
