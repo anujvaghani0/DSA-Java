@@ -1,4 +1,4 @@
-package Searching;
+package Searching.BinarySearchQuestion;
 
 //question link -> https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 

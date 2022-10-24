@@ -1,6 +1,8 @@
 package Strings;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class main {
     public static void main(String[] args) {
@@ -71,5 +73,12 @@ public class main {
         String to = "12:251";
         System.out.println(to.substring(0, 2));
         System.out.println(to.substring(3));
+
+
+        List<String> ll=new ArrayList<>();
+        ll.add("abc");
+        ll.add("bc");
+//        System.out.print();
+
     }
 }

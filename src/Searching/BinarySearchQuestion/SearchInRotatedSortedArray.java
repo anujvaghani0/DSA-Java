@@ -1,8 +1,8 @@
-package Searching;
+package Searching.BinarySearchQuestion;
 
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
-        int[] arr = {4,5,1,2,3};
+        int[] arr = {4, 5, 1, 2, 3};
         int target = 3;
         System.out.println(seraching(arr, target));
     }

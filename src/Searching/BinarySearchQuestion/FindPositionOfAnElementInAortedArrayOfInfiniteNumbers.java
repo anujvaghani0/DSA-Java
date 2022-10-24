@@ -1,4 +1,4 @@
-package Searching;
+package Searching.BinarySearchQuestion;
 
 public class FindPositionOfAnElementInAortedArrayOfInfiniteNumbers {
     public static void main(String[] args) {
