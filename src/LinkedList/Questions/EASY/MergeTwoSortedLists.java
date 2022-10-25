@@ -53,11 +53,12 @@ public class MergeTwoSortedLists {
             return printLinkedList(this);
         }
     }
+
     public static void main(String[] args) {
         ListNode head = convertArrayToLinkedList(new int[]{1, 2, 4});
-        ListNode head1 = convertArrayToLinkedList(new int[]{1,3,4});
+        ListNode head1 = convertArrayToLinkedList(new int[]{1, 3, 4});
         System.out.println(printLinkedList(head));
-        head = mergeTwoLists(head,head1);
+        head = mergeTwoLists(head, head1);
         System.out.println(printLinkedList(head));
     }
 

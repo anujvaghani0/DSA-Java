@@ -12,6 +12,7 @@ public class MinimumNumberofDaysToMakemBouquets {
         if (bloomDay.length < m * k) {
             return -1;
         }
+
         int right = Integer.MIN_VALUE;
         for (int i = 0; i < bloomDay.length; i++) {
             if (right < bloomDay[i]) {
