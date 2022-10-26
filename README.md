@@ -21,19 +21,10 @@
 #### [Dynamic Programming](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming)
 <br>
 
-   ```
-    " Don't run behind solutions, run behind the intuition "
-   ```
- <br>
- 
- 
-<div align="center">
-  <h2>Author</h2>
+- ` DO NOT RUN BEHIND SOLUTIONS, RUN BEHIND THE INTUITION `
 
-| Author                | Profile Link                                       |
-| --------------------- | ------------------------------------------------- |
-| **Anuj V Vaghani** | **[Anuj Vaghani](https://github.com/anujvaghani0)** |
-</div>
+
+<br>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/anujvaghani0">Anuj Vaghani</a>
 </p>
