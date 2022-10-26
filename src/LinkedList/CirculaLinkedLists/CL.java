@@ -1,7 +1,5 @@
 package LinkedList.CirculaLinkedLists;
 
-import org.w3c.dom.Node;
-
 public class CL {
     private Node head;
     private Node tail;

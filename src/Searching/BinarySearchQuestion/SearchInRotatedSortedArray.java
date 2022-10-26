@@ -43,6 +43,7 @@ public class SearchInRotatedSortedArray {
         return -1;
     }
 
+
     public static int pivot(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
