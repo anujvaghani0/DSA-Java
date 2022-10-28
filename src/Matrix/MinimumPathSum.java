@@ -1,8 +1,10 @@
-package Arrays;
+package Matrix;
+
+//question link -> https://leetcode.com/problems/minimum-path-sum/
 
 public class MinimumPathSum {
     public static void main(String[] args) {
-        int[][] ans = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        int[][] ans = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
         int ans1 = minPathSum(ans);
         System.out.println(ans1);
     }

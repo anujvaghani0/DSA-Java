@@ -10,7 +10,6 @@ public class SpiralMatrix {
         System.out.println(ans1);
     }
 
-
     public static List<Integer> spiralOrder(int[][] matrix) {
         int m = matrix.length;
         List<Integer> ans = new ArrayList<>();
