@@ -12,9 +12,11 @@ public class TheEmployeeThatWorkedOnTheLongestTask {
         int temp = logs[0][1];
         int maximum = logs[0][0];
         for (int i = 1; i < logs.length; i++) {
-            int unit = logs[i][1] - logs[i - 1][1];
-            if (unit >= temp && temp > logs[i][0]) {
-                temp = unit;
+            int time = logs[i][1] - logs[i - 1][1];
+            if (temp == time) {
+                maximum = Math.min(maximum, logs[i][0]);
+            } else if (temp < time) {
+                temp = logs[i][1] - logs[i - 1][1];
                 maximum = logs[i][0];
             }
         }
