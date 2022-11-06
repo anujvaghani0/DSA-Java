@@ -7,13 +7,13 @@ public class SearchInRotatedSortedArray {
         System.out.println(seraching(arr, target));
     }
 
-    //    public static boolean search(int[] nums, int target) {
-//        int ans=seraching(nums,target);
-//        if (ans!=-1){
-//            return true;
-//        }
-//     return false;
-//    }
+        public static boolean search(int[] nums, int target) {
+        int ans=seraching(nums,target);
+        if (ans!=-1){
+            return true;
+        }
+     return false;
+    }
     public static int seraching(int[] arr, int target) {
         int pivot = pivot(arr);
         if (pivot == -1) {
@@ -60,7 +60,6 @@ public class SearchInRotatedSortedArray {
 
             } else {
                 end = mid - 1;
-
             }
         }
         return -1;

@@ -1,8 +1,10 @@
 package Strings;
 
+//question link -> https://leetcode.com/problems/reverse-vowels-of-a-string/
+
 public class ReverseVowelsOfAString {
     public static void main(String[] args) {
-        System.out.println(reverseVowels("aA"));
+        System.out.println(reverseVowels("leetcode"));
     }
 
     public static String reverseVowels(String s) {

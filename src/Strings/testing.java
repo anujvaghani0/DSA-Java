@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class main {
+public class testing {
     public static void main(String[] args) {
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < 26; i++) {
@@ -60,7 +60,7 @@ public class main {
         int[] ans8 = new int[3];
         System.out.println(Arrays.toString(ans8));
 
-        String temp = "$25";
+        String temp = "$25   ";
         System.out.println(temp.substring(1, temp.length()));
         System.out.println(temp.charAt(1) + temp.charAt(2));
         System.out.println(temp.charAt(1) - '0');
@@ -68,6 +68,7 @@ public class main {
 
         int first = Integer.parseInt("15");
         System.out.println(first);
+        System.out.println(temp.stripTrailing() + "25");
 
 
         String to = "12:251";
@@ -75,10 +76,17 @@ public class main {
         System.out.println(to.substring(3));
 
 
-        List<String> ll=new ArrayList<>();
+        List<String> ll = new ArrayList<>();
         ll.add("abc");
         ll.add("bc");
 //        System.out.print();
 
+        String demo2 = "rohitsharma";
+        System.out.println(demo2.substring(1));
+        System.out.println(demo2.substring(0, 1));
+
+        String c1 = "cba";
+        String c2 = "bac";
+        System.out.println(c1.compareTo(c2));
     }
 }

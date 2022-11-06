@@ -2,8 +2,8 @@ package Strings;
 
 public class SlowestKey {
     public static void main(String[] args) {
-    int[] num={9,29,49,50};
-        System.out.println(slowestKey(num,"cbcd"));
+        int[] num = {9, 29, 49, 50};
+        System.out.println(slowestKey(num, "cbcd"));
     }
 
     public static char slowestKey(int[] releaseTimes, String keysPressed) {
