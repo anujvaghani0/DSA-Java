@@ -1,29 +1,24 @@
 package Arrays;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+//question link -> https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         int[] ans = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
-        int[] ans1 = removeDuplicates(ans);
-        System.out.println(Arrays.toString(ans1));
+        System.out.println(removeDuplicates(ans));
     }
 
-    public static int[] removeDuplicates(int[] arr) {
-        int len = arr.length;
-        List<Integer> ans = new ArrayList<>();
-        for (int i = 0; i < len - 1; i++) {
-            if (arr[i] != arr[i + 1]) {
-                ans.add(arr[i]);
+    public static int removeDuplicates(int[] nums) {
+        if (nums.length == 0 || nums.length == 1) {
+            return nums.length;
+        }
+        int j = 0;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] != nums[i + 1]) {
+                nums[j++] = nums[i];
             }
         }
-        ans.add(arr[len - 1]);
-        int[] ans1 = new int[ans.size()];
-        for (int i = 0; i < ans.size(); i++) {
-            ans1[i] = ans.get(i);
-        }
-        return ans1;
+        nums[j++] = nums[nums.length - 1];
+        return j;
     }
 }

@@ -81,12 +81,19 @@ public class testing {
         ll.add("bc");
 //        System.out.print();
 
-        String demo2 = "rohitsharma";
+        String demo2 = "2019-12-31";
         System.out.println(demo2.substring(1));
-        System.out.println(demo2.substring(0, 1));
+        System.out.println(demo2.substring(0, 4));
+        System.out.println(demo2.substring(5, 7));
+        System.out.println(demo2.substring(8, 10));
 
         String c1 = "cba";
         String c2 = "bac";
         System.out.println(c1.compareTo(c2));
+        System.out.println("Hello");
+        String rs="123";
+        System.out.println(rs.charAt(0)-'0'+rs.charAt(1)-'0');
+        int sum7=2;
+        System.out.println(sum7+rs.charAt(0)-'0');
     }
 }

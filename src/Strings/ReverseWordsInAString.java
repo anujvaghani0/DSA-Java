@@ -1,8 +1,10 @@
 package Strings;
 
+//question link -> https://leetcode.com/problems/reverse-words-in-a-string/
+
 public class ReverseWordsInAString {
     public static void main(String[] args) {
-        System.out.println(reverseWords("a good   example"));
+        System.out.println(reverseWords("a good   example  "));
     }
 
     public static String reverseWords(String s) {

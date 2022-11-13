@@ -6,15 +6,15 @@ public class palindromeString {
         System.out.println(palindrome(name));
     }
 
-    public static boolean palindrome(String name) {
+    public static int palindrome(String name) {
         String temp = name;
         StringBuilder ans = new StringBuilder();
         for (int i = temp.length(); i > 0; i--) {
             ans.append(temp.charAt(i - 1));
         }
         if (ans.toString().equals(temp)) {
-            return true;
+            return 1;
         }
-        return false;
+        return 0;
     }
 }
