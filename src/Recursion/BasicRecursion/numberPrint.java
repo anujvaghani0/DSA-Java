@@ -1,15 +1,15 @@
 package Recursion.BasicRecursion;
 
-public class ReverseSeries {
+public class numberPrint {
     public static void main(String[] args) {
-        series(5);
+        print(0);
     }
 
-    public static void series(int n) {
-        if (n == 0) {
+    public static void print(int n) {
+        if (n == 5) {
             return;
         }
-        series(n - 1);
         System.out.println(n);
+        print(n + 1);
     }
 }

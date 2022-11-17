@@ -95,5 +95,8 @@ public class testing {
         System.out.println(rs.charAt(0)-'0'+rs.charAt(1)-'0');
         int sum7=2;
         System.out.println(sum7+rs.charAt(0)-'0');
+        int u=1;
+        System.out.println(u++);
+        System.out.println(++u);
     }
 }

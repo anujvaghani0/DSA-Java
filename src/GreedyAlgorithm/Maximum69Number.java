@@ -1,6 +1,6 @@
 package GreedyAlgorithm;
 
-//question link -> https://leetcode.com/problems/maximum-69-number/
+// Question Link -> https://leetcode.com/problems/maximum-69-number/
 
 public class Maximum69Number {
     public static void main(String[] args) {

@@ -10,3 +10,4 @@
 * [80. Remove Duplicates from Sorted Array II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesFromSortedArrayII.java) `leetcode`</br>
 * [Equilibrium Point](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesFromSortedArrayII.java) `GFG`</br>
 * [2460. Apply Operations to an Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/ApplyOperationsToAnArray.java) `leetcode`</br>
+* [75. Sort Colors](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/SortColors.java) `leetcode`</br>

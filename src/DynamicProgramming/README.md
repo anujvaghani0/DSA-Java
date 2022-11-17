@@ -1,0 +1,2 @@
+* [1547. Minimum Cost to Cut a Stick](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/AddDigits.java) `leetcode`</br>
+* [494. Target Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/AddDigits.java) `leetcode`</br>

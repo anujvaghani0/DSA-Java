@@ -7,3 +7,5 @@
 * [899. Orderly Queue](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/OrderlyQueue.java) `leetcode`</br>
 * [1750. Minimum Length of String After Deleting Similar Ends](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/MinimumLengthOfStringAfterDeletingSimilarEnds.java) `leetcode`</br>
 * [151. Reverse Words in a String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/ReverseWordsInAString.java) `leetcode`</br>
+* [Find Patterns](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/FindPatterns.java) `GFG`</br>
+* [1071. Greatest Common Divisor of Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/gcdOfStrings.java) `leetcode`</br>

@@ -3,7 +3,7 @@ package Searching.BinarySearchQuestion;
 public class FindSmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
         char[] letters = {'c', 'f', 'j'};
-        char target = 'a';
+        char target = 'd';
         char ans = letter(letters, target);
         System.out.println(ans);
     }

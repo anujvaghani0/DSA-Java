@@ -17,3 +17,6 @@
 * [Aggressive Cows](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/AggressiveCows.java) `GFG`</br>
 * [Find position of an element in a sorted array of infinite numbers](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindPositionOfAnElementInAortedArrayOfInfiniteNumbers.java) `GFG`</br>
 * [81. Search in Rotated Sorted Array II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/SearchInRotatedSortedArrayII.java) `leetcode`</br>
+* [633. Sum of Square Numbers](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/SumofSquareNumbers.java) `leetcode`</br>
+* [367. Valid Perfect Square](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/ValidPerfectSquare.java) `leetcode`</br>
+* [744. Find Smallest Letter Greater Than Target](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindSmallestLetterGreaterThanTarget.java) `leetcode`</br>
