@@ -9,3 +9,4 @@
 * [151. Reverse Words in a String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/ReverseWordsInAString.java) `leetcode`</br>
 * [Find Patterns](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/FindPatterns.java) `GFG`</br>
 * [1071. Greatest Common Divisor of Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/gcdOfStrings.java) `leetcode`</br>
+* [2224. Minimum Number of Operations to Convert Time](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/MinimumNumberOfOperationsToConvertTime.java) `leetcode`</br>

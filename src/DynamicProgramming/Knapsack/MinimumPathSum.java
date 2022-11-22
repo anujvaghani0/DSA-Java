@@ -1,4 +1,4 @@
-package Matrix;
+package DynamicProgramming.Knapsack;
 
 //question link -> https://leetcode.com/problems/minimum-path-sum/
 

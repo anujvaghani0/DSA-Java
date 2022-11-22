@@ -1,9 +1,11 @@
 package Searching.BinarySearchQuestion;
 
+// Question link -> https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+
 public class FindSmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
-        char[] letters = {'c', 'f', 'j'};
-        char target = 'd';
+        char[] letters = {'x','x','y','y'};
+        char target = 'z';
         char ans = letter(letters, target);
         System.out.println(ans);
     }
