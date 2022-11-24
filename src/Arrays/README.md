@@ -7,7 +7,8 @@
 * [2404. Most Frequent Even Element](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MostFrequentEvenElement.java) `leetcode`</br>
 * [Wave Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/convertToWave.java) `GFG`</br>
 * [26. Remove Duplicates from Sorted Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesFromSortedArray.java) `leetcode`</br>
-* [80. Remove Duplicates from Sorted Array II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesFromSortedArrayII.java) `leetcode`</br>
-* [Equilibrium Point](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesFromSortedArrayII.java) `GFG`</br>
+* [80. Remove Duplicates from Sorted Array II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDuplicatesfromSortedArrayII.java) `leetcode`</br>
+* [Equilibrium Point](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/EquilibriumPoint.java) `GFG`</br>
 * [2460. Apply Operations to an Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/ApplyOperationsToAnArray.java) `leetcode`</br>
 * [75. Sort Colors](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/SortColors.java) `leetcode`</br>
+* [Magic Triplets](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MagicTriplets.java) `GFG`</br>

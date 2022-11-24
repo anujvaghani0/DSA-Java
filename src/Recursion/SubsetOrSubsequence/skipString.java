@@ -2,7 +2,7 @@ package Recursion.SubsetOrSubsequence;
 
 public class skipString {
     public static void main(String[] args) {
-        String up="rohitsharmarohit";
+        String up = "rohitsharmarohit";
         System.out.println(skip(up));
     }
 

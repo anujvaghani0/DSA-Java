@@ -6,3 +6,4 @@
 * [1716. Calculate Money in Leetcode Bank](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/MinimumSumofFourDigitNumberAfterSplittingDigits.java) `leetcode`</br>
 * [263. Ugly Number](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/UglyNumber.java) `leetcode`</br>
 * [2409. Count Days Spent Together](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/countDaysTogether.java) `leetcode`</br>
+* [Maximum Sum LCM](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/MaximumSumLCM.java) `GFG`</br>

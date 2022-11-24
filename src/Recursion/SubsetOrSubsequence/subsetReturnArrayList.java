@@ -11,7 +11,7 @@ public class subsetReturnArrayList {
         if (up.isEmpty()) {
             ArrayList<String> list = new ArrayList<>();
             list.add(p);
-            System.out.println(p);
+//            System.out.println(p);
             return list;
         }
         char ch = up.charAt(0);

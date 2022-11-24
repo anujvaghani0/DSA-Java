@@ -1,21 +1,19 @@
-package Recursion.SubsetOrSubsequence;
+package Recursion.LeetcodeQuestions;
+
+// Question link -> https://leetcode.com/problems/subsets-ii/
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class IterativeProgramToPrintDuplicatSubsequences {
+public class subsetII {
     public static void main(String[] args) {
         int[] arr = {1, 1, 2, 2};
-        List<List<Integer>> list = subset(arr);
-//        for (List<Integer> ans : list) {
-//            System.out.println(ans);
-//        }
+        List<List<Integer>> list = subsetsWithDup(arr);
         System.out.println(list);
-
     }
 
-    public static List<List<Integer>> subset(int[] arr) {
+    public static List<List<Integer>> subsetsWithDup(int[] arr) {
         Arrays.sort(arr);
         List<List<Integer>> outer = new ArrayList<>();
         outer.add(new ArrayList<>());

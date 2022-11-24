@@ -98,5 +98,7 @@ public class testing {
         int u=1;
         System.out.println(u++);
         System.out.println(++u);
+        String p="rohit";
+        System.out.println(p.substring(1));
     }
 }
