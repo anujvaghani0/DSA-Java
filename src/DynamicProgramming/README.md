@@ -6,4 +6,4 @@
 * [1547. Minimum Cost to Cut a Stick](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/Knapsack) `leetcode`</br>
 * [494. Target Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/Knapsack) `leetcode`</br>
 * [64. Minimum Path Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/MinimumPathSum.java) `leetcode`</br>
-
+* [2380. Time Needed to Rearrange a Binary String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/TimeNeededToRearrangeABinaryString.java) `leetcode`</br>

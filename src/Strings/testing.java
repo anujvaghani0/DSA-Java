@@ -99,6 +99,6 @@ public class testing {
         System.out.println(u++);
         System.out.println(++u);
         String p="rohit";
-        System.out.println(p.substring(1));
+        System.out.println(p.substring(0,2));
     }
 }

@@ -8,7 +8,7 @@ import java.util.List;
 
 public class subset {
     public static void main(String[] args) {
-        int[] num = {1, 2, 3, 4};
+        int[] num = {3,1,2,4};
         List<List<Integer>> ans = subsets(num);
         System.out.println(ans);
     }

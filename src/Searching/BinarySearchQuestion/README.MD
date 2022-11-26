@@ -21,3 +21,4 @@
 * [367. Valid Perfect Square](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/ValidPerfectSquare.java) `leetcode`</br>
 * [744. Find Smallest Letter Greater Than Target](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindSmallestLetterGreaterThanTarget.java) `leetcode`</br>
 * [69. Sqrt(x)](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/mySqrt.java) `leetcode`</br>
+* [167. Two Sum II - Input Array Is Sorted](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/TwoSumIIInputArrayIsSorted.java) `leetcode`</br>

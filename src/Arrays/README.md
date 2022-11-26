@@ -12,3 +12,4 @@
 * [2460. Apply Operations to an Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/ApplyOperationsToAnArray.java) `leetcode`</br>
 * [75. Sort Colors](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/SortColors.java) `leetcode`</br>
 * [Magic Triplets](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MagicTriplets.java) `GFG`</br>
+* [2259. Remove Digit From Number to Maximize Result](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDigitFromNumberToMaximizeResult.java) `leetcode`</br>
