@@ -13,3 +13,6 @@
 * [75. Sort Colors](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/SortColors.java) `leetcode`</br>
 * [Magic Triplets](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MagicTriplets.java) `GFG`</br>
 * [2259. Remove Digit From Number to Maximize Result](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RemoveDigitFromNumberToMaximizeResult.java) `leetcode`</br>
+* [724. Find Pivot Index](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FindPivotIndex.java) `leetcode`</br>
+* [1991. Find the Middle Index in Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FindtheMiddleIndexInArray.java) `leetcode`</br>
+* [2270. Number of Ways to Split Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/NumberOfWaysToSplitArray.java) `leetcode`</br>

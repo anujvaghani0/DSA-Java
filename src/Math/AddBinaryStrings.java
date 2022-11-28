@@ -1,10 +1,10 @@
-package BitwiseOperators;
+package Math;
 
-public class AddBinary {
+// Question link -> https://practice.geeksforgeeks.org/problems/add-binary-strings3805/1
+
+public class AddBinaryStrings {
     public static void main(String[] args) {
-        String a = "00101";
-        String b = "0";
-        System.out.println(addBinary(a, b));
+        System.out.println(addBinary("1101","111"));
     }
 
     public static String addBinary(String a, String b) {
@@ -53,6 +53,6 @@ public class AddBinary {
                 ans.delete(i1, i1 + 1);
             }
         }
-            return ans.toString();
-        }
+        return ans.toString();
     }
+}

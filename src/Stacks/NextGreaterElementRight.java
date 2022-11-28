@@ -5,9 +5,9 @@ package Stacks;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class NextGreaterElement {
+public class NextGreaterElementRight {
     public static void main(String[] args) {
-        long[] arr = {6, 8, 0, 1, 3};
+        long[] arr = {1,3,4,2};
         System.out.println(Arrays.toString(nextLargerElement(arr, arr.length)));
     }
 

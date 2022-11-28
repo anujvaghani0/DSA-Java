@@ -5,4 +5,5 @@
 * [84. Largest Rectangle in Histogram](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/LargestRectangleInHistogram.java) `leetcode`</br>
 * [85. Maximal Rectangle](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/MaximalRectangle.java) `leetcode`</br>
 * [42. Trapping Rain Water](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/TrappingRainWater.java) `leetcode`</br>
+* [503. Next Greater Element II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/NextGreaterElementII.java) `leetcode`</br>
 * 739. Daily Temperatures
