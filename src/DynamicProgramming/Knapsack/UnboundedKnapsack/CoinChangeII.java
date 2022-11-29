@@ -4,12 +4,12 @@ package DynamicProgramming.Knapsack.UnboundedKnapsack;
 
 public class CoinChangeII {
     public static void main(String[] args) {
-    int[] coins={3};
-        System.out.println(change(2,coins));
+        int[] coins = {1, 2, 5};
+        System.out.println(change(5, coins));
     }
 
     public static int change(int amount, int[] coins) {
-        int N=coins.length;
+        int N = coins.length;
         int[][] dp = new int[N + 1][amount + 1];
         for (int i = 0; i <= amount; i++) {
             dp[0][i] = 0;
@@ -28,5 +28,4 @@ public class CoinChangeII {
         }
         return dp[N][amount];
     }
-
 }

@@ -19,7 +19,7 @@ public class TimeNeededToRearrangeABinaryString {
 //        return seconds;
 //    }
 
-//
+    //
     public static int secondsToRemoveOccurrences(String s) {
         int count = 0;
         int countAns = 0;
@@ -31,8 +31,8 @@ public class TimeNeededToRearrangeABinaryString {
                 if (temp[i] == '0' && temp[i + 1] == '1') {
                     count = 2;
                     flag = 1;
-                    temp[i]='1';
-                    temp[i+1]='0';
+                    temp[i] = '1';
+                    temp[i + 1] = '0';
                 } else {
                     count = 1;
                 }

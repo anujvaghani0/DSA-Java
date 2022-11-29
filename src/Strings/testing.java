@@ -100,5 +100,11 @@ public class testing {
         System.out.println(++u);
         String p="rohit";
         System.out.println(p.substring(0,2));
+
+
+
+        StringBuilder ans123=new StringBuilder(s);
+        System.out.println(ans123.insert(1,'p'));
+
     }
 }

@@ -7,7 +7,16 @@
 * [494. Target Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/Knapsack) `leetcode`</br>
 * [64. Minimum Path Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/MinimumPathSum.java) `leetcode`</br>
 * [2380. Time Needed to Rearrange a Binary String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/TimeNeededToRearrangeABinaryString) `leetcode`</br>
-* [Knapsack with Duplicate Items](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/KnapsackWithDuplicateItem.java) `leetcode`</br>
-* [Rod Cutting](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/KnapsackWithDuplicateItem.java) `GFG`</br>
-* [518. Coin Change II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/CoinChangeII.java) `leetcode`</br>
-* [322. Coin Change](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/coinChange.java) `leetcode`</br>
+* [Knapsack with Duplicate Items](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/KnapsackWithDuplicateItem.java) `leetcode`</br>
+* [Rod Cutting](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/RodCutting.java) `GFG`</br>
+* [518. Coin Change II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/CoinChangeII.java) `leetcode`</br>
+* [322. Coin Change](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/CoinChange.java) `leetcode`</br>
+* [1143. Longest Common Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/LongestcommonSubsequenceTopDownDP.java) `leetcode`</br>
+* [Longest Common Substring](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/LongestCommonSubstring.java) `GFG`</br>
+* [Shortest Common Supersequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/longestCommonSubsequence.java) `GFG`</br>
+* [1092. Shortest Common Supersequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/ShortestCommonSupersequenceReturnString.java) `leetcode`</br>
+* [583. Delete Operation for Two Strings](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/DeleteOperationForTwoStrings.java) `leetcode`</br>
+* [516. Longest Palindromic Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/DeleteOperationForTwoStrings.java) `leetcode`</br>
+* [Minimum number of deletions](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/MinimumNumberOfDeletions.java) `GFG`</br>
+* [Longest Repeating Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/LongestPalindromicSubsequence.java) `GFG`</br>
+* [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/MinimumInsertionStepsToMakeAStringPalindrome.java) `leetcode`</br>
