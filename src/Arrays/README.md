@@ -16,3 +16,5 @@
 * [724. Find Pivot Index](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FindPivotIndex.java) `leetcode`</br>
 * [1991. Find the Middle Index in Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FindtheMiddleIndexInArray.java) `leetcode`</br>
 * [2270. Number of Ways to Split Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/NumberOfWaysToSplitArray.java) `leetcode`</br>
+* [1207. Unique Number of Occurrences](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/UniqueNumberOfOccurrences.java) `leetcode`</br>
+* [Rearrange Array Alternately](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RearrangeArrayAlternately.java) `GFG`</br>

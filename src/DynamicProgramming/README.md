@@ -20,3 +20,8 @@
 * [Minimum number of deletions](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/MinimumNumberOfDeletions.java) `GFG`</br>
 * [Longest Repeating Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/LongestPalindromicSubsequence.java) `GFG`</br>
 * [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Knapsack/UnboundedKnapsack/MinimumInsertionStepsToMakeAStringPalindrome.java) `leetcode`</br>
+* [121. Best Time to Buy and Sell Stock](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/BuySellStock/BestTimeToBuyAndSellStock.java) `leetcode`</br>
+* [746. Min Cost Climbing Stairs](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MinCostClimbingStairs.java) `leetcode`</br>
+* [198. House Robber](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobber.java) `leetcode`</br>
+* [213. House Robber II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobberII.java) `leetcode`</br>
+* [377. Combination Sum IV](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/CombinationSumIV.java) `leetcode`</br>

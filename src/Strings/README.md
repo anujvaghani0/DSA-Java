@@ -12,3 +12,5 @@
 * [2224. Minimum Number of Operations to Convert Time](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/MinimumNumberOfOperationsToConvertTime.java) `leetcode`</br>
 * [Reverse words in a given string](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/ReverseWordsInAGivenString.java) `GFG`</br>
 * [Common Subsequence](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/CommonSubsequence.java) `GFG`</br>
+* [1704. Determine if String Halves Are Alike](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/DetermineIfStringHalvesAreAlike.java) `leetcode`</br>
+* [1657. Determine if Two Strings Are Close](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/DetermineIfTwoStringsAreClose.java) `leetcode`</br>
