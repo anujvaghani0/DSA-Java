@@ -10,13 +10,13 @@
 
 #### [Searching](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Searching) | [Sorting](https://github.com/anujvaghani0/DSA-Java/tree/master/src/sorting) | [Math](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math)
 
-#### [Linked Lists](https://github.com/anujvaghani0/DSA-Java/tree/master/src/LinkedList) | [Stacks](java_datastructures_algorithms/stacks) | [Queues](java_datastructures_algorithms/queues) 
+#### [Linked Lists](https://github.com/anujvaghani0/DSA-Java/tree/master/src/LinkedList) | [Stacks](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks) | [Queues](java_datastructures_algorithms/queues) 
 
 #### [BSTs](java_datastructures_algorithms/bst) | [Heap](java_datastructures_algorithms/heap) | [Hashing](java_datastructures_algorithms/hashing) 
 
 #### [Tree Traversal](java_datastructures_algorithms/tree_traversal) | [Graph Traversal](java_datastructures_algorithms/graph_traversal)
 
-#### [Graph Algorithms](https://github.com/anujvaghani0/DSA-Java/tree/master/src/GreedyAlgorithm)
+#### [Graph Algorithms](https://github.com/anujvaghani0/DSA-Java/tree/master/src/GreedyAlgorithm) | [Sliding Window Algorithm](https://github.com/anujvaghani0/DSA-Java/tree/master/src/SlidingWindowAlgo)
 
 #### [Dynamic Programming](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming)
 <br>
