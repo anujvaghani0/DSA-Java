@@ -25,3 +25,9 @@
 * [198. House Robber](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobber.java) `leetcode`</br>
 * [213. House Robber II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobberII.java) `leetcode`</br>
 * [377. Combination Sum IV](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/CombinationSumIV.java) `leetcode`</br>
+* [1039. Minimum Score Triangulation of Polygon](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/minScoreTriangulation.java) `leetcode`</br>
+* [1402. Reducing Dishes](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/ReducingDishes.java) `leetcode`</br>
+* [1388. Pizza With 3n Slices](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PizzaWith3nSlices.java) `leetcode`</br>
+* [122. Best Time to Buy and Sell Stock II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/BuySellStock/BestTimeToBuyAndSellStockII.java) `leetcode`</br>
+* [123. Best Time to Buy and Sell Stock III](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/BuySellStock/BestTimeToBuyAndSellStockIII.java) `leetcode`</br>
+* [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/BuySellStock/BestTimeToBuyAndSellStockWithTransactionFee.java) `leetcode`</br>

@@ -18,3 +18,4 @@
 * [2270. Number of Ways to Split Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/NumberOfWaysToSplitArray.java) `leetcode`</br>
 * [1207. Unique Number of Occurrences](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/UniqueNumberOfOccurrences.java) `leetcode`</br>
 * [Rearrange Array Alternately](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RearrangeArrayAlternately.java) `GFG`</br>
+* [2256. Minimum Average Difference](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MinimumAverageDifference.java) `leetcode`</br>
