@@ -7,12 +7,11 @@ public class palindromeString {
     }
 
     public static int palindrome(String name) {
-        String temp = name;
         StringBuilder ans = new StringBuilder();
-        for (int i = temp.length(); i > 0; i--) {
-            ans.append(temp.charAt(i - 1));
+        for (int i = name.length(); i > 0; i--) {
+            ans.append(name.charAt(i - 1));
         }
-        if (ans.toString().equals(temp)) {
+        if (ans.toString().equals(name)) {
             return 1;
         }
         return 0;
