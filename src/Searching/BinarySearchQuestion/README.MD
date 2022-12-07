@@ -23,3 +23,4 @@
 * [69. Sqrt(x)](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/mySqrt.java) `leetcode`</br>
 * [167. Two Sum II - Input Array Is Sorted](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/TwoSumIIInputArrayIsSorted.java) `leetcode`</br>
 * [2485. Find the Pivot Integer](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindThePivotInteger.java) `leetcode`</br>
+* [1300. Sum of Mutated Array Closest to Target](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/SumOfMutatedArrayClosestToTarget.java) `leetcode`</br>

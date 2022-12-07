@@ -2,8 +2,7 @@ package Searching.BinarySearchQuestion;
 
 public class FindPositionOfAnElementInAortedArrayOfInfiniteNumbers {
     public static void main(String[] args) {
-        int[] arr = {3, 5, 7, 9, 10, 90,
-                100, 130, 140, 160, 170};
+        int[] arr = {3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170};
         int target = 10;
         int ans = ans(arr, target);
         System.out.println(ans);

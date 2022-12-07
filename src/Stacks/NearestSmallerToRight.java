@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class NearestSmallerToRight {
     public static void main(String[] args) {
-    int[] arr={6,2,5,4,5,1,6};
+        int[] arr = {6, 2, 5, 4, 5, 1, 6};
         System.out.println(Arrays.toString(nextSmallerElement(arr, arr.length)));
     }
 

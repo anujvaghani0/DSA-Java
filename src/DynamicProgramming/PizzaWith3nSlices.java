@@ -1,5 +1,7 @@
 package DynamicProgramming;
 
+// Question link ->https://leetcode.com/problems/pizza-with-3n-slices/
+
 public class PizzaWith3nSlices {
     public static void main(String[] args) {
         int[] slices = {8, 9, 8, 6, 1, 1};

@@ -6,15 +6,15 @@ import java.util.ArrayList;
 
 public class MaxSumSubarrayOfSizeK {
     public static void main(String[] args) {
-    ArrayList<Integer> nums=new ArrayList<>();
-    nums.add(400);
-    nums.add(300);
-    nums.add(200);
-    nums.add(100);
-        System.out.println(maximumSumSubarray(2,nums, nums.size()));
+        ArrayList<Integer> numbs = new ArrayList<>();
+        numbs.add(400);
+        numbs.add(300);
+        numbs.add(200);
+        numbs.add(100);
+        System.out.println(maximumSumSubarray(2, numbs, numbs.size()));
     }
 
-    public static long maximumSumSubarray(int k, ArrayList<Integer> nums, int N){
+    public static long maximumSumSubarray(int k, ArrayList<Integer> nums, int N) {
         long sum = 0;
         int j = 0;
         int i = 0;
