@@ -14,3 +14,4 @@
 * [Common Subsequence](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/CommonSubsequence.java) `GFG`</br>
 * [1704. Determine if String Halves Are Alike](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/DetermineIfStringHalvesAreAlike.java) `leetcode`</br>
 * [1657. Determine if Two Strings Are Close](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/DetermineIfTwoStringsAreClose.java) `leetcode`</br>
+* [2490. Circular Sentence](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/CircularSentence.java) `leetcode`</br>
