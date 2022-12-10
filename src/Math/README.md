@@ -10,3 +10,4 @@
 * [2028. Find Missing Observations](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindMissingObservations.java) `leetcode`</br>
 * [Add Binary Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/addBinary.java) `GFG`</br>
 * [2491. Divide Players Into Teams of Equal Skill](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/DividePlayersIntoTeamsOfEqualSkill.java) `leetcode`</br>
+* [2169. Count Operations to Obtain Zero](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/CountOperationsToObtainZero.java) `leetcode`</br>

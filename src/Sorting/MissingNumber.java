@@ -1,6 +1,4 @@
-package sorting;
-
-import java.util.Arrays;
+package Sorting;
 
 public class MissingNumber {
     public static void main(String[] args) {

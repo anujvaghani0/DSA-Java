@@ -4,9 +4,9 @@ package Searching.BinarySearchQuestion;
 
 public class MinimumCostToMakeArrayEqual {
     public static void main(String[] args) {
-    int[] nums={1,3,5,2};
-    int[] cost={2,3,1,14};
-        System.out.println(minCost(nums,cost));
+        int[] nums = {1,2,3,4,5};
+        int[] cost = {1,2,3,4,5};
+        System.out.println(minCost(nums, cost));
     }
 
     public static long minCost(int[] nums, int[] cost) {

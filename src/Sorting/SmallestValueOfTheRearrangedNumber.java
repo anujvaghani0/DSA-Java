@@ -1,4 +1,4 @@
-package sorting;
+package Sorting;
 
 //question link -> https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 

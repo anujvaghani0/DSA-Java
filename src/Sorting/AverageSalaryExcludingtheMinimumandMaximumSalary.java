@@ -1,5 +1,4 @@
-package sorting;
-import java.lang.reflect.Array;
+package Sorting;
 import java.util.Arrays;
 
 public class AverageSalaryExcludingtheMinimumandMaximumSalary {

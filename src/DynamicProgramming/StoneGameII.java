@@ -12,7 +12,7 @@ public class StoneGameII {
         for (int i=0;i< stones.length;i++){
             TotalStones+=stones[i];
         }
-        return (TotalStones+solve(stones,0,))
-
+//        return (TotalStones+solve(stones,0,))
+        return true;
     }
 }
