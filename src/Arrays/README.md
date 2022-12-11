@@ -19,3 +19,5 @@
 * [1207. Unique Number of Occurrences](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/UniqueNumberOfOccurrences.java) `leetcode`</br>
 * [Rearrange Array Alternately](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/RearrangeArrayAlternately.java) `GFG`</br>
 * [2256. Minimum Average Difference](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MinimumAverageDifference.java) `leetcode`</br>
+* [2498. Frog Jump II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FrogJumpII.java) `leetcode`</br>
+* [Array Pair Sum Divisibility Problem](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/ArrayPairSumDivisibilityProblem.java) `GFG`</br>

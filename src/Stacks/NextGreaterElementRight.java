@@ -7,7 +7,7 @@ import java.util.Stack;
 
 public class NextGreaterElementRight {
     public static void main(String[] args) {
-        long[] arr = {1,3,4,2};
+        long[] arr = {73,74,75,71,69,72,76,73};
         System.out.println(Arrays.toString(nextLargerElement(arr, arr.length)));
     }
 

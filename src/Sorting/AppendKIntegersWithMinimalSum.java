@@ -4,7 +4,6 @@ package Sorting;
 
 import java.util.Arrays;
 
-
 public class AppendKIntegersWithMinimalSum {
     public static void main(String[] args) {
         int[] nums = {1,4,25,10,25};
