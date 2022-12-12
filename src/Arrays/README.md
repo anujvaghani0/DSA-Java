@@ -21,3 +21,4 @@
 * [2256. Minimum Average Difference](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/MinimumAverageDifference.java) `leetcode`</br>
 * [2498. Frog Jump II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FrogJumpII.java) `leetcode`</br>
 * [Array Pair Sum Divisibility Problem](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/ArrayPairSumDivisibilityProblem.java) `GFG`</br>
+* [1394. Find Lucky Integer in an Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Arrays/FindLuckyIntegerInAnArray.java) `leetcode`</br>

@@ -1,5 +1,7 @@
 # DYNAMIC PROGRAMMING QUESTIONS
 
+- ` THOSE WHO CANNOT REMEMBER THE PAST ARE CONDEMNED TO REPEAT IT. `
+
 * [0 - 1 Knapsack Problem](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/toporbottomApprochKnapsack.java) `GFG`</br>
 * [Subset Sum Problem](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/subsetSum.java) `GFG`</br>
 * [416. Partition Equal Subset Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/PartitionEqualSubsetSum.java) `leetcode`</br>
@@ -36,7 +38,9 @@
 * [Matrix Chain Multiplication](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/MatrixChainMultiplication/MatrixChainMultiplication.java) `GFG`</br>
 * [Palindromic Partitioning](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/MatrixChainMultiplication/PalindromePartitioning.java) `GFG`</br>
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/BuySellStock/BestTimeToBuyAndSellStockWithCooldown.java) `leetcode`</br>
-* [1137. N-th Tribonacci Number](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobberII.java) `leetcode`</br>
-* [788. Rotated Digits](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/HouseRobberII.java) `leetcode`</br>
 * [877. Stone Game](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/StoneGame.java) `leetcode`</br>
 * [1690. Stone Game VII](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/StoneGameVII.java) `leetcode`</br>
+* [813. Largest Sum of Averages](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/LargestSumOfAverages.java) `leetcode`</br>
+* [Painting the Fence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `GFG`</br>
+* [1537. Get the Maximum Score](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `leetcode`</br>
+* [1567. Maximum Length of Subarray With Positive Product](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `leetcode`</br>
