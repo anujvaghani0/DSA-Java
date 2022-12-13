@@ -4,8 +4,8 @@ package DynamicProgramming;
 
 public class GetTheMaximumScore {
     public static void main(String[] args) {
-        int[] nums1 = {1,3,5,7,9};
-        int[] nums2 = {3,5,100};
+        int[] nums1 = {1, 3, 5, 7, 9};
+        int[] nums2 = {3, 5, 100};
         System.out.println(maxSum(nums1, nums2));
     }
 

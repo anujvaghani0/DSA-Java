@@ -42,5 +42,10 @@
 * [1690. Stone Game VII](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/StoneGameVII.java) `leetcode`</br>
 * [813. Largest Sum of Averages](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/LargestSumOfAverages.java) `leetcode`</br>
 * [Painting the Fence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `GFG`</br>
-* [1537. Get the Maximum Score](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `leetcode`</br>
-* [1567. Maximum Length of Subarray With Positive Product](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/PaintingTheFence.java) `leetcode`</br>
+* [1537. Get the Maximum Score](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/GetTheMaximumScore.java) `leetcode`</br>
+* [1567. Maximum Length of Subarray With Positive Product](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MaximumLengthOfSubarrayWithPositiveProduct.java) `leetcode`</br>
+* [2320. Count Number of Ways to Place Houses](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/CountNumberOfWaysToPlaceHouses.java) `leetcode`</br>
+* [931. Minimum Falling Path Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MinimumFallingPathSum.java) `leetcode`</br>
+* 1937
+* 1911
+* 1289

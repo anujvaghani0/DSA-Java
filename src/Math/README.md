@@ -11,3 +11,6 @@
 * [Add Binary Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/addBinary.java) `GFG`</br>
 * [2491. Divide Players Into Teams of Equal Skill](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/DividePlayersIntoTeamsOfEqualSkill.java) `leetcode`</br>
 * [2169. Count Operations to Obtain Zero](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/CountOperationsToObtainZero.java) `leetcode`</br>
+* [118. Pascal's Triangle](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/PascalsTriangle.java) `leetcode`</br>
+* [119. Pascal's Triangle II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/PascalsTriangleII.java) `leetcode`</br>
+* [2221. Find Triangular Sum of an Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindTriangularSumOfAnArray.java) `leetcode`</br>

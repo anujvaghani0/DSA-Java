@@ -1,6 +1,5 @@
 # STACKS QUESTIONS
 
-
 * [Next Greater Element](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/NextGreaterElement.java) `GFG`</br>
 * [Smallest number on left](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/leftSmaller.java) `GFG`</br>
 * [84. Largest Rectangle in Histogram](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/LargestRectangleInHistogram.java) `leetcode`</br>
@@ -10,6 +9,8 @@
 * [239. Sliding Window Maximum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/maxSlidingWindow.java) `leetcode`</br>
 * [402. Remove K Digits](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/BuildTheSmallest.java) `leetcode`</br>
 * [739. Daily Temperatures](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/DailyTemperatures.java) `leetcode`</br>
+* [1653. Minimum Deletions to Make String Balanced](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/MinimumDeletionsToMakeStringBalanced.java) `leetcode`</br>
+
 * 321
 * 738
 * 1673
