@@ -17,3 +17,10 @@
 * [1657. Determine if Two Strings Are Close](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/DetermineIfTwoStringsAreClose.java) `leetcode`</br>
 * [2490. Circular Sentence](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/CircularSentence.java) `leetcode`</br>
 * [2496. Maximum Value of a String in an Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/MaximumValueOfAStringInAnArray.java) `leetcode`</br>
+* [2351. First Letter to Appear Twice](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/FirstLetterToAppearTwice.java) `leetcode`</br>
+* [387. First Unique Character in a String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/FirstUniqueCharacterInAString.java) `leetcode`</br>
+* [1221. Split a String in Balanced Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/SplitAStringInBalancedString.java) `leetcode`</br>
+* [2347. Best Poker Hand](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/BestPokerHand.java) `leetcode`</br>
+* 2379
+* 1813
+* 1775

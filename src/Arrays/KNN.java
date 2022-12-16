@@ -61,7 +61,6 @@ public class KNN {
         double[] sum2 = new double[n];
         double[] s1 = new double[n];
         double[] sum = new double[n];
-        String[] c1 = new String[n];
         for (int i = 0; i < n; i++) {
             sum1[i] = Math.pow(x[i] - x1, 2);
             sum2[i] = Math.pow(y[i] - y1, 2);

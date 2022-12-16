@@ -46,6 +46,9 @@
 * [1567. Maximum Length of Subarray With Positive Product](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MaximumLengthOfSubarrayWithPositiveProduct.java) `leetcode`</br>
 * [2320. Count Number of Ways to Place Houses](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/CountNumberOfWaysToPlaceHouses.java) `leetcode`</br>
 * [931. Minimum Falling Path Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MinimumFallingPathSum.java) `leetcode`</br>
+* [1911. Maximum Alternating Subsequence Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MaximumAlternatingSubsequenceSum.java) `leetcode`</br>
+* [300. Longest Increasing Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/LongestIncreasingSubsequence.java) `leetcode`</br>
+
 * 1937
-* 1911
-* 1289
+* 152
+* 740
