@@ -16,7 +16,7 @@
 
 #### [Tree Traversal](java_datastructures_algorithms/tree_traversal) | [Graph Traversal](java_datastructures_algorithms/graph_traversal)
 
-#### [Graph Algorithms](https://github.com/anujvaghani0/DSA-Java/tree/master/src/GreedyAlgorithm) | [Sliding Window Algorithm](https://github.com/anujvaghani0/DSA-Java/tree/master/src/SlidingWindowAlgo)
+#### [Graph Algorithms](https://github.com/anujvaghani0/DSA-Java/tree/master/src/GreedyAlgorithm) | [Sliding Window Algorithm](https://github.com/anujvaghani0/DSA-Java/tree/master/src/SlidingWindow)
 
 #### [Dynamic Programming](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming)
 <br>
