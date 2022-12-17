@@ -45,10 +45,12 @@
 * [1537. Get the Maximum Score](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/GetTheMaximumScore.java) `leetcode`</br>
 * [1567. Maximum Length of Subarray With Positive Product](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MaximumLengthOfSubarrayWithPositiveProduct.java) `leetcode`</br>
 * [2320. Count Number of Ways to Place Houses](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/CountNumberOfWaysToPlaceHouses.java) `leetcode`</br>
-* [931. Minimum Falling Path Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MinimumFallingPathSum.java) `leetcode`</br>
+* [931. Minimum Falling Path Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimumFallingPathSum.java) `leetcode`</br>
 * [1911. Maximum Alternating Subsequence Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/MaximumAlternatingSubsequenceSum.java) `leetcode`</br>
 * [300. Longest Increasing Subsequence](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/LongestIncreasingSubsequence.java) `leetcode`</br>
-
-* 1937
+* [1937. Maximum Number of Points with Cost](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix//MaximumNumberOfPointsWithCost.java) `leetcode`</br>
+* [1981. Minimize the Difference Between Target and Chosen Elements](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimizeTheDifferenceBetweenTargetAndChosenElements.java) `leetcode`</br>
+* [1289. Minimum Falling Path Sum II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimumFallingPathSum.java) `leetcode`</br>
 * 152
 * 740
+* 1755

@@ -4,13 +4,13 @@ package DynamicProgramming;
 
 public class MinimumTimeToMakeRopeColorful {
     public static void main(String[] args) {
-    int[] time={1,2,3,4,1};
-        System.out.println(minCost("aabaa",time));
+        int[] time = {1, 2, 3, 4, 1};
+        System.out.println(minCost("aabaa", time));
     }
 
     public static int minCost(String colors, int[] neededTime) {
         int n = colors.length();
-        int[] dp = new int[n+1];
+        int[] dp = new int[n + 1];
         for (int i = 0; i <= n; i++) {
             dp[i] = -1;
         }
@@ -33,11 +33,11 @@ public class MinimumTimeToMakeRopeColorful {
                 neededTime[index + 1] = neededTime[index];
                 neededTime[index] = temp;
             }
-            dp[index] = Math.min(neededTime[index], neededTime[index+1]) +
+            dp[index] = Math.min(neededTime[index], neededTime[index + 1]) +
                     solve(colors, index + 1, neededTime, dp);
             return dp[index];
-        }else{
-            dp[index]=solve(colors, index + 1, neededTime, dp);
+        } else {
+            dp[index] = solve(colors, index + 1, neededTime, dp);
             return dp[index];
         }
     }

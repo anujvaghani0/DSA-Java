@@ -14,3 +14,4 @@
 * [118. Pascal's Triangle](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/PascalsTriangle.java) `leetcode`</br>
 * [119. Pascal's Triangle II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/PascalsTriangleII.java) `leetcode`</br>
 * [2221. Find Triangular Sum of an Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindTriangularSumOfAnArray.java) `leetcode`</br>
+* [Break a number](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/BreakANumber.java) `GFG`</br>

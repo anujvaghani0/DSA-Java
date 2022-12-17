@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package DynamicProgramming.Matrix;
 
 // Question link -> https://leetcode.com/problems/minimum-falling-path-sum/
 

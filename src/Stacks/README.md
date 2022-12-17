@@ -10,9 +10,8 @@
 * [402. Remove K Digits](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/BuildTheSmallest.java) `leetcode`</br>
 * [739. Daily Temperatures](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/DailyTemperatures.java) `leetcode`</br>
 * [1653. Minimum Deletions to Make String Balanced](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/MinimumDeletionsToMakeStringBalanced.java) `leetcode`</br>
-
+* [150. Evaluate Reverse Polish Notation](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Stacks/evalRPN.java) `leetcode`</br>
 * 321
 * 738
 * 1673
 * 150
-* 

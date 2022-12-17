@@ -1,4 +1,6 @@
-package DynamicProgramming;
+package DynamicProgramming.Matrix;
+
+// Question link -> https://leetcode.com/problems/minimum-falling-path-sum-ii/
 
 import java.util.Arrays;
 
@@ -7,7 +9,6 @@ public class MinimumFallingPathSumII {
         int[][] matrix = {{2, 1, 3}, {6, 5, 4}, {7, 8, 9}};
         System.out.println(minFallingPathSum(matrix));
     }
-
 
     public static int minFallingPathSum(int[][] matrix) {
         int m = matrix.length;
