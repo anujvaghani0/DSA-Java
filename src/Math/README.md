@@ -15,3 +15,4 @@
 * [119. Pascal's Triangle II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/PascalsTriangleII.java) `leetcode`</br>
 * [2221. Find Triangular Sum of an Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindTriangularSumOfAnArray.java) `leetcode`</br>
 * [Break a number](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/BreakANumber.java) `GFG`</br>
+* [2507. Smallest Value After Replacing With Sum of Prime Factors](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/SmallestValueAfterReplacingWithSumOfPrimeFactors.java) `leetcode`</br>
