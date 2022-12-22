@@ -15,12 +15,19 @@
 * [542. 01 Matrix](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/zeroOneMatrix.java)`leetcode`</br>
 * [Distance of nearest cell having 1](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/DetectCycleInAnUndirectedGraph.java)`GFG`</br>
 * [130. Surrounded Regions](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/SurroundedRegions.java)`leetcode`</br>
-* [130. Surrounded Regions](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/NumberOfEnclaves.java)`leetcode`</br>
+* [1020. Number of Enclaves](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/NumberOfEnclaves.java)`leetcode`</br>
 * [Number of Distinct Islands](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/NumberOfDistinctIsland.java)`GFG`</br>
 * [785. Is Graph Bipartite?](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/IsGraphBipartite.java)`leetcode`</br>
 * [802. Find Eventual Safe States](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/.java)`leetcode`</br>
 * [Bipartite Graph](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/BipartiteGraph.java)`GFG`</br>
-
+* [Detect cycle in a directed graph](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/DetectCycleInADirectedGraph.java)`GFG`</br>
+* [802. Find Eventual Safe States](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/DetectCycleInADirectedGraph.java)`leetcode`</br>
+* [Topological sort](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/TopologicalSorting/TopologicalSort.java)`GFG`</br>
+* [207. Course Schedule](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/TopologicalSorting/CourseSchedule.java)`leetcode`</br>
+* [210. Course Schedule II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/TopologicalSorting/CourseScheduleII.java)`leetcode`</br>
+* [Alien Dictionary](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/TopologicalSorting/AlienDictionary.java)`GFG`</br>
+* [Shortest path in Directed Acyclic Graph](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/ShortestPath/ShortestPathInDirectedAcyclicGraph.java)`GFG`</br>
+* [Shortest path in Undirected Graph having unit distance](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/ShortestPath/ShortestPathInUndirectedGraphHavingUnitDistance.java)`GFG`</br>
 * 1727
 * 2101
 * 2258

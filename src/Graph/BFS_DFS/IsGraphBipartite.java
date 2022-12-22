@@ -13,37 +13,37 @@ public class IsGraphBipartite {
     }
 
     public static boolean isBipartite(int[][] graph) {
-            int n = graph.length;
-    //        int m = graph[0].length;
-            int[] color = new int[n];
-            Arrays.fill(color, -1);
-            for (int i = 0; i < n; i++) {
-                if (color[i] == -1) {
-                    if (!bfs(i, n, graph, color)) {
-                        return false;
-                    }
+        int n = graph.length;
+        //        int m = graph[0].length;
+        int[] color = new int[n];
+        Arrays.fill(color, -1);
+        for (int i = 0; i < n; i++) {
+            if (color[i] == -1) {
+                if (!bfs(i, n, graph, color)) {
+                    return false;
                 }
             }
-            return true;
         }
+        return true;
+    }
 
-        private static boolean bfs(int start, int n, int[][] graph, int[] color) {
-            Queue<Integer> qu = new LinkedList<>();
-            qu.add(start);
-            color[start] = 0;
-            while (!qu.isEmpty()) {
-                int node = qu.peek();
-                qu.remove();
+    private static boolean bfs(int start, int n, int[][] graph, int[] color) {
+        Queue<Integer> qu = new LinkedList<>();
+        qu.add(start);
+        color[start] = 0;
+        while (!qu.isEmpty()) {
+            int node = qu.peek();
+            qu.remove();
 
-                for (int adjacentNode : graph[node]) {
-                    if (color[adjacentNode] == -1) {
-                        color[adjacentNode] = 1 - color[node];
-                        qu.add(adjacentNode);
-                    } else if (color[adjacentNode] == color[node]) {
-                        return false;
-                    }
+            for (int adjacentNode : graph[node]) {
+                if (color[adjacentNode] == -1) {
+                    color[adjacentNode] = 1 - color[node];
+                    qu.add(adjacentNode);
+                } else if (color[adjacentNode] == color[node]) {
+                    return false;
                 }
             }
-            return true;
+        }
+        return true;
     }
 }
