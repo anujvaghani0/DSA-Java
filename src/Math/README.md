@@ -16,3 +16,5 @@
 * [2221. Find Triangular Sum of an Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindTriangularSumOfAnArray.java) `leetcode`</br>
 * [Break a number](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/BreakANumber.java) `GFG`</br>
 * [2507. Smallest Value After Replacing With Sum of Prime Factors](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/SmallestValueAfterReplacingWithSumOfPrimeFactors.java) `leetcode`</br>
+* [2177. Find Three Consecutive Integers That Sum to a Given Number](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/FindThreeConsecutiveIntegersThatSumToAGivenNumber.java) `leetcode`</br>
+* [2240. Number of Ways to Buy Pens and Pencils](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Math/NumberOfWaysToBuyPensAndPencils.java) `leetcode`</br>

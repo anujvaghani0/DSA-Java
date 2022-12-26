@@ -25,3 +25,5 @@
 * [2485. Find the Pivot Integer](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindThePivotInteger.java) `leetcode`</br>
 * [1300. Sum of Mutated Array Closest to Target](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/SumOfMutatedArrayClosestToTarget.java) `leetcode`</br>
 * [1095. Find in Mountain Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/FindInMountainArray.java) `leetcode`</br>
+* [2389. Longest Subsequence With Limited Sum](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/LongestSubsequenceWithLimitedSum.java) `leetcode`</br>
+* [2300. Successful Pairs of Spells and Potions](https://github.com/anujvaghani0/DSA-Java/blob/master/src/Searching/BinarySearchQuestion/SuccessfulPairsOfSpellsAndPotions.java) `leetcode`</br>

@@ -22,6 +22,7 @@
 * [1221. Split a String in Balanced Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/SplitAStringInBalancedString.java) `leetcode`</br>
 * [2347. Best Poker Hand](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/BestPokerHand.java) `leetcode`</br>
 * [2506. Count Pairs Of Similar Strings](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/CountPairsOfSimilarStrings.java) `leetcode`</br>
+* [2515. Shortest Distance to Target String in a Circular Array](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Strings/ShortestDistanceToTargetStringInACircularArray.java) `leetcode`</br>
 * 2379
 * 1813
 * 1775

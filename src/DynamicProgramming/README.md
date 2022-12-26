@@ -51,6 +51,11 @@
 * [1937. Maximum Number of Points with Cost](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix//MaximumNumberOfPointsWithCost.java) `leetcode`</br>
 * [1981. Minimize the Difference Between Target and Chosen Elements](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimizeTheDifferenceBetweenTargetAndChosenElements.java) `leetcode`</br>
 * [1289. Minimum Falling Path Sum II](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimumFallingPathSum.java) `leetcode`</br>
+* [Burst Balloons](https://github.com/anujvaghani0/DSA-Java/tree/master/src/DynamicProgramming/MatrixChainMultiplication/MatrixChainMultiplication.java) `GFG`</br>
+* [790. Domino and Tromino Tiling](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/DominoAndTrominoTiling.java) `leetcode`</br>
+* [2466. Count Ways To Build Good Strings](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimumFallingPathSum.java) `leetcode`</br>
+* [1664. Ways to Make a Fair Array](https://github.com/anujvaghani0/DSA-Java/blob/master/src/DynamicProgramming/Matrix/MinimumFallingPathSum.java) `leetcode`</br>
 * 152
 * 740
 * 1755
+* 1770
