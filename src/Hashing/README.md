@@ -13,5 +13,6 @@
 * [1962. Remove Stones to Minimize the Total](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/RemoveStonesToMinimizeTheTotal.java) `leetcode`</br>
 * [2208. Minimum Operations to Halve Array Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/MinimumOperationsToHalveArraySum.java) `leetcode`</br>
 * [1405. Longest Happy String](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/LongestHappyString.java) `leetcode`</br>
+* [1481. Least Number of Unique Integers after K Removals](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/LeastNumberOfUniqueIntegersAfterKRemovals.java) `leetcode`</br>
 * 2248
 * 523

@@ -37,6 +37,7 @@
 * [126. Word Ladder II](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/ShortestPath/WordLadderII.java)`leetcode`</br>
 * [1306. Jump Game III](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/JumpGameIII.java)`leetcode`</br>
 * [1976. Number of Ways to Arrive at Destination](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/NumberOfWaysToArriveAtDestination.java)`leetcode`</br>
+* [797. All Paths From Source to Target](https://github.com/anujvaghani0/DSA-Java/tree/master/src/Graph/BFS_DFS/AllPathsFromSourceToTarget.java)`leetcode`</br>
 * 1727
 * 2101
 * 2258

@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MzeProblemMatrixAndPath {
     public static void main(String[] args) {
         boolean[][] maze = {{true, true, true},
-                            {true, true, true},
+                            {true, false, true},
                             {true, true, true}
         };
         int[][] path = new int[maze.length][maze[0].length];
