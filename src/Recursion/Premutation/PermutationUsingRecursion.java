@@ -2,7 +2,7 @@ package Recursion.Premutation;
 
 public class PermutationUsingRecursion {
     public static void main(String[] args) {
-        permutation("", "abc");
+        permutation("", "1296");
     }
 
     public static void permutation(String p, String up) {

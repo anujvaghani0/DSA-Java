@@ -32,4 +32,10 @@ public class finalKeyword {
         }
 
     }
+
+    public static class Interfaces {
+        public static void main(String[] args) {
+
+        }
+    }
 }
