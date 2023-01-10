@@ -30,6 +30,14 @@ public class learnClassAndObject {
             this.age = st2.age;
         }
 
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
         Student() {
         }
     }

@@ -44,8 +44,6 @@ public class ReverseLinkedListII {
     }
 
 
-
-
     public class ListNode {
         int val;
         public ListNode next;
