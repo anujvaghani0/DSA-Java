@@ -13,6 +13,7 @@ public class AddDigits {
         }
         return num;
     }
+//    some changes
 
     private static int digitSum(int num) {
         int sum = 0;
