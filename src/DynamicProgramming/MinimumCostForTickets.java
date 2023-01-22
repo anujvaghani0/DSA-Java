@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MinimumCostForTickets {
     public static void main(String[] args) {
-        int[] days = {2,5};
+        int[] days = {2, 5};
         int[] costs = {1, 4, 15};
         System.out.println(mincostTickets(days, costs));
     }
