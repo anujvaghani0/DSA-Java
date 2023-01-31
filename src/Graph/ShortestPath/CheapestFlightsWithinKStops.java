@@ -45,9 +45,9 @@ public class CheapestFlightsWithinKStops {
                 continue;
             }
 
-            for (pair iter : adj.get(node)) {
-                int adjNode = iter.first;
-                int endW = iter.second;
+            for (pair interior : adj.get(node)) {
+                int adjNode = interior.first;
+                int endW = interior.second;
                 if (cost + endW < distance[adjNode] && stops <= k) {
                     distance[adjNode] = cost + endW;
                     qu.add(new Tuple(stops + 1, adjNode, cost + endW));
