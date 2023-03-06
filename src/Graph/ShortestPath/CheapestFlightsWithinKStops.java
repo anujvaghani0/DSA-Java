@@ -64,7 +64,6 @@ public class CheapestFlightsWithinKStops {
         int first;
         int second;
 
-
         public pair(int first, int second) {
             this.first = first;
             this.second = second;
