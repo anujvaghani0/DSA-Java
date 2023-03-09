@@ -4,8 +4,8 @@ package Searching.BinarySearchQuestion;
 
 public class KokoEatingBananas {
     public static void main(String[] args) {
-        int[] piles={3,6,7,11};
-        System.out.println(minEatingSpeed(piles,8));
+        int[] piles = {3, 6, 7, 11};
+        System.out.println(minEatingSpeed(piles, 18));
     }
 
     public static int minEatingSpeed(int[] piles, int h) {
@@ -36,6 +36,10 @@ public class KokoEatingBananas {
         int time = 0;
         for (int i = 0; i < piles.length; i++) {
             time += (int) Math.ceil(piles[i] * 1.0 / mid);
+        }
+
+        if (time < -1) {
+            return false;
         }
         return time <= h;
     }

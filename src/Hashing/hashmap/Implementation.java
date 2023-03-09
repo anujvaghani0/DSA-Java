@@ -41,7 +41,6 @@ public class Implementation {
         for (String key : keys) {
             System.out.println(key + "->" + map.get(key));
         }
-
 //        remove the key value on the map
         map.remove("DUBAI");
     }

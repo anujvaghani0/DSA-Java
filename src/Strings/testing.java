@@ -106,5 +106,8 @@ public class testing {
         StringBuilder ans123=new StringBuilder(s);
         System.out.println(ans123.insert(1,'p'));
 
+//        time += (int) Math.ceil(piles[i] * 1.0 / mid);
+        System.out.println((long)Math.ceil(2*1.0/0)+(long)Math.ceil(2*1.0/0));
+        System.out.println((long)Math.ceil(2*1.0/0));
     }
 }
