@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MaximizeGreatnessOfAnArray {
     public static void main(String[] args) {
-    int[] num={1,3,5,2,1,3,1};
+        int[] num = {1, 3, 5, 2, 1, 3, 1};
         System.out.println(maximizeGreatness(num));
     }
 
