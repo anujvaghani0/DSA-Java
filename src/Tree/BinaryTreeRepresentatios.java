@@ -11,8 +11,7 @@ public class BinaryTreeRepresentatios {
 //        System.out.println(root.data);
 //        preorder(root);
 //        inorder(root);
-//        postOrder(root);
-        levelOrder(root);
+        postOrder(root);
     }
 
     public static class BinaryTree {
@@ -62,38 +61,6 @@ public class BinaryTreeRepresentatios {
         postOrder(root.right);
         System.out.print(root.data + " ");
     }
-
-    //    Level Order
-    public static void levelOrder(Node root) {
-        Queue<Node> qu = new LinkedList<>();
-        if (root == null) {
-            return;
-        }
-
-        qu.add(root);
-        qu.add(null);
-        while (!qu.isEmpty()) {
-            Node current = qu.remove();
-            if (current == null) {
-                System.out.println();
-//                Queue empty
-                if (qu.isEmpty()) {
-                    break;
-                } else {
-                    qu.add(null);
-                }
-            } else {
-                System.out.print(current.data + " ");
-                if (current.left != null) {
-                    qu.add(current.left);
-                }
-                if (current.right != null) {
-                    qu.add(current.right);
-                }
-            }
-        }
-    }
-
 
     static class Node {
         int data;
