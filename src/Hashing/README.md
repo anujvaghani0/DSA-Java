@@ -4,8 +4,6 @@
 * [500. Keyboard Row](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/KeyboardRow.java) `leetcode`</br> 
 * [128. Longest Consecutive Sequence](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/LongestConsecutiveSequence.java) `leetcode`</br>
 * [500. Keyboard Row](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/KeyboardRow.java) `leetcode`</br>
-* [500. Keyboard Row](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/KeyboardRow.java) `leetcode`</br>
-* [500. Keyboard Row](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/KeyboardRow.java) `leetcode`</br>
 * [2335. Minimum Amount of Time to Fill Cups](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/MinimumAmountOfTimeToFillCups.java) `leetcode`</br>
 * [1962. Remove Stones to Minimize the Total](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/RemoveStonesToMinimizeTheTotal.java) `leetcode`</br>
 * [2208. Minimum Operations to Halve Array Sum](https://github.com/anujvaghani0/DSA-Java/tree/master/src/HashMap/MinimumOperationsToHalveArraySum.java) `leetcode`</br>
