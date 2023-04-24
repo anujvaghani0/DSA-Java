@@ -2,7 +2,7 @@ package Recursion.SubsetOrSubsequence;
 
 public class LetterCombinationsOfAPhoneNumber {
     public static void main(String[] args) {
-        phonePed("", "12");
+        phonePed("", "1234");
     }
 
     public static void phonePed(String p, String up) {
