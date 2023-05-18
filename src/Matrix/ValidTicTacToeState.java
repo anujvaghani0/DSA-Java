@@ -15,7 +15,7 @@ public class ValidTicTacToeState {
         int[] rows = new int[3];
         int[] cols = new int[3];
         int diagonal = 0;
-        int antidiagonal = 0;
+        int antiDiagonal = 0;
 
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -27,7 +27,7 @@ public class ValidTicTacToeState {
                         diagonal++;
                     }
                     if (i + j == 2) {
-                        antidiagonal++;
+                        antiDiagonal++;
                     }
                 } else if (board[i].charAt(j) == 'O') {
                     turns--;
@@ -37,16 +37,16 @@ public class ValidTicTacToeState {
                         diagonal--;
                     }
                     if (i + j == 2) {
-                        antidiagonal--;
+                        antiDiagonal--;
                     }
                 }
             }
         }
 
         Xwinner = rows[0] == 3 || rows[1] == 3 || rows[2] == 3 || cols[0] == 3 || cols[1] == 3 || cols[2] == 3
-                || diagonal == 3 || antidiagonal == 3;
+                || diagonal == 3 || antiDiagonal == 3;
         Owinner = rows[0] == -3 || rows[1] == -3 || rows[2] == -3 || cols[0] == -3 || cols[1] == -3 || cols[2] == -3
-                || diagonal == -3 || antidiagonal == -3;
+                || diagonal == -3 || antiDiagonal == -3;
 
         if (Xwinner && turns == 0 || Owinner && turns == 1) {
             return false;

@@ -1,10 +1,11 @@
 package DynamicProgramming.BuySellStock;
 
 // Question link -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
 public class BestTimeToBuyAndSellStockWithTransactionFee {
     public static void main(String[] args) {
-    int[] prices={1,3,2,8,4,9};
-        System.out.println(maxProfit(prices,2));
+        int[] prices = {1, 3, 2, 8, 4, 9};
+        System.out.println(maxProfit(prices, 2));
     }
 
     public static int maxProfit(int[] prices, int fee) {
@@ -31,7 +32,7 @@ public class BestTimeToBuyAndSellStockWithTransactionFee {
             int SkipBuy = solve(prices, index + 1, 1, fee, dp);
             profit = Math.max(take, SkipBuy);
         } else {
-            int takeSell = prices[index] + solve(prices, index + 1, 1, fee, dp)-fee;
+            int takeSell = prices[index] + solve(prices, index + 1, 1, fee, dp) - fee;
             int SkipSell = solve(prices, index + 1, 0, fee, dp);
             profit = Math.max(takeSell, SkipSell);
         }
