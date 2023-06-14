@@ -17,6 +17,6 @@ public class ArrayNesting {
             }
             count = Integer.max(count, size);
         }
-        return count;
+        return  count;
     }
 }

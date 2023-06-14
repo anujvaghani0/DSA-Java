@@ -27,6 +27,6 @@ public class MiceandCheese {
         while (pq.size() > 0) {
             ans += pq.poll();
         }
-        return ans;
+        return  ans;
     }
 }

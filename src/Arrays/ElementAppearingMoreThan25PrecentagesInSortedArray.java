@@ -8,7 +8,7 @@ public class ElementAppearingMoreThan25PrecentagesInSortedArray {
 
     public static int findSpecialInteger(int[] arr) {
         if (arr.length == 1) {
-            return arr[0];
+            return  arr[0];
         }
         int count = 0;
         int MaxCount = 0;
@@ -25,6 +25,6 @@ public class ElementAppearingMoreThan25PrecentagesInSortedArray {
             }
             count = 0;
         }
-        return arr[index];
+        return  arr[index];
     }
 }

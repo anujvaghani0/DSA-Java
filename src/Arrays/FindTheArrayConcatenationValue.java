@@ -14,6 +14,6 @@ public class FindTheArrayConcatenationValue {
             String b = String.valueOf(nums[j--]);
             ans += Integer.parseInt(a + b);
         }
-        return nums.length % 2 == 0 ? ans : ans + nums[i];
+        return  nums.length % 2 == 0 ? ans : ans + nums[i];
     }
 }

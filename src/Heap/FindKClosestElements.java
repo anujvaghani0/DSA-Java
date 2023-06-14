@@ -23,7 +23,7 @@ public class FindKClosestElements {
         }
 
         Collections.sort(ls);
-        return ls;
+        return  ls;
     }
 
     private static class Pair implements Comparable<Pair> {
@@ -36,8 +36,8 @@ public class FindKClosestElements {
         }
 
         public int compareTo(Pair other) {
-            if (this.diff == other.diff) return other.idx - this.idx;
-            else return other.diff - this.diff;
+            if (this.diff == other.diff) return  other.idx - this.idx;
+            else return  other.diff - this.diff;
         }
     }
 }

@@ -22,7 +22,7 @@ public class CreateTargetArrayInTheGivenOrder {
             }
             ans[ind] = nums[i];
         }
-        return ans;
+        return  ans;
     }
 }
 
@@ -36,4 +36,4 @@ public class CreateTargetArrayInTheGivenOrder {
 //        for (int i = 0; i < nums.length; i++) {
 //            target[i] = list.get(i);
 //        }
-//        return target;
+//        return  target;

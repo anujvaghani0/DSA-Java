@@ -15,6 +15,6 @@ public class CountPrefixesOfAGivenString {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

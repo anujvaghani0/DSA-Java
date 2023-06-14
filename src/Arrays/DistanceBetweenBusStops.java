@@ -20,6 +20,6 @@ public class DistanceBetweenBusStops {
             }
             total += distance[i];
         }
-        return Math.min(ans, total - ans);
+        return  Math.min(ans, total - ans);
     }
 }

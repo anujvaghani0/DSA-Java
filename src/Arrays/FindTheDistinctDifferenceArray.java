@@ -25,6 +25,6 @@ public class FindTheDistinctDifferenceArray {
             }
             ans[i] = prefix.size() - suffix.size();
         }
-        return ans;
+        return  ans;
     }
 }

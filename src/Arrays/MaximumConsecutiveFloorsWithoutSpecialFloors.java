@@ -16,6 +16,6 @@ public class MaximumConsecutiveFloorsWithoutSpecialFloors {
         for (int i = 1; i < special.length; i++) {
             ans = Math.max(ans, special[i] - special[i - 1] - 1);
         }
-        return ans;
+        return  ans;
     }
 }

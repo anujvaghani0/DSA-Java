@@ -70,6 +70,6 @@ public class KNN {
         for (int i = 0; i < n; i++) {
             s1[i] = Math.sqrt(sum[i]);
         }
-        return s1;
+        return  s1;
     }
 }

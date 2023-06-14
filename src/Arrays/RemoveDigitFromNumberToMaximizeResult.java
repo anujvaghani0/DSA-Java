@@ -11,12 +11,12 @@ public class RemoveDigitFromNumberToMaximizeResult {
         for (int i = 1; i < number.length(); i++) {
             if (number.charAt(i - 1) == digit) {
                 if (number.charAt(i) > number.charAt(i - 1)) {
-                    return number.substring(0, i - 1) + number.substring(i);
+                    return  number.substring(0, i - 1) + number.substring(i);
                 }
             }
         }
         int lastIndex = number.lastIndexOf(digit);
-        return number.substring(0, lastIndex) + number.substring(lastIndex + 1);
+        return  number.substring(0, lastIndex) + number.substring(lastIndex + 1);
     }
 
 // second approach use where it strings size not the large are given
@@ -35,6 +35,6 @@ public class RemoveDigitFromNumberToMaximizeResult {
 //            ans = (long) (ans + (Math.pow(10,count)) * rem);
 //            count++;
 //        }
-//        return String.valueOf(max);
+//        return  String.valueOf(max);
 //    }
 }

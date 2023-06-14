@@ -15,11 +15,11 @@ public class ValidPalindromeII {
                 i++;
                 j--;
             } else {
-                return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
+                return  isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
 
             }
         }
-        return true;
+        return  true;
     }
 
     private static boolean isPalindrome(String s, int a, int b) {
@@ -28,9 +28,9 @@ public class ValidPalindromeII {
                 a++;
                 b--;
             } else {
-                return false;
+                return  false;
             }
         }
-        return true;
+        return  true;
     }
 }

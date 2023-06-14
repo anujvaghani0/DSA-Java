@@ -18,6 +18,6 @@ public class MaximumSubarray {
                 sum = 0;
             }
         }
-        return maxi;
+        return  maxi;
     }
 }

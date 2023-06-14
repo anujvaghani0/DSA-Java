@@ -16,7 +16,7 @@ public class MaximumDifferenceBetweenIncreasingElements {
             }
             min = Math.min(min, nums[i]);
         }
-        return difference;
+        return  difference;
     }
 
 //        int difference = -1;
@@ -27,5 +27,5 @@ public class MaximumDifferenceBetweenIncreasingElements {
 //                }
 //            }
 //        }
-//        return difference;
+//        return  difference;
 }

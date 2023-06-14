@@ -17,6 +17,6 @@ public class AddToArrayFormofInteger {
             ans.add(0, (i >= 0 ? num[i] + k : k) % 10);
             k = (i >= 0 ? num[i] + k : k) / 10;
         }
-        return ans;
+        return  ans;
     }
 }

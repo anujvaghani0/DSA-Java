@@ -34,6 +34,6 @@ public class MinimumAverageDifference {
             }
             leftIndex++;
         }
-        return rightIndex;
+        return  rightIndex;
     }
 }

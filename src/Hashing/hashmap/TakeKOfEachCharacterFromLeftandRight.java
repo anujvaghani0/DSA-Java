@@ -1,4 +1,4 @@
-package Hashing.hashmap;
+package Hashing.hashmap; 
 
 public class TakeKOfEachCharacterFromLeftandRight {
     public static void main(String[] args) {

@@ -18,7 +18,7 @@ public class ApplyOperationsToAnArray {
             }
         }
         moveZero(nums);
-        return nums;
+        return  nums;
     }
 
     private static void moveZero(int[] nums) {

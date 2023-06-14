@@ -8,7 +8,7 @@ public class FindTheTownJudge {
 
     public static int findJudge(int n, int[][] trust) {
         if (n == 1 && trust.length == 0) {
-            return 1;
+            return  1;
         }
 
         int[] count = new int[n + 1];
@@ -21,10 +21,10 @@ public class FindTheTownJudge {
 
         for (int i = 0; i < count.length; i++) {
             if (count[i] == n - 1) {
-                return i;
+                return  i;
             }
 
         }
-        return -1;
+        return  -1;
     }
 }

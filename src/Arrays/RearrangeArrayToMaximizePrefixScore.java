@@ -27,6 +27,6 @@ public class RearrangeArrayToMaximizePrefixScore {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

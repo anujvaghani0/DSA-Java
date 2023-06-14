@@ -34,6 +34,6 @@ public class IntersectionofTwoArraysII {
         for (int i = 0; i < ans.size(); i++) {
             result[i] = ans.get(i);
         }
-        return result;
+        return  result;
     }
 }

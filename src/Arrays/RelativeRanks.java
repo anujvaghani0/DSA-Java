@@ -27,6 +27,6 @@ public class RelativeRanks {
                 ans[pair[i][1]] = (i + 1) + "";
             }
         }
-        return ans;
+        return  ans;
     }
 }

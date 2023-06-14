@@ -29,6 +29,6 @@ public class SumOfUniqueElements {
         for(int i=0;i<nums.length;i++){
             ans+=nums[i];
         }
-        return ans;
+        return  ans;
     }
 }

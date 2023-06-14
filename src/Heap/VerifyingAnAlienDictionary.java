@@ -19,17 +19,17 @@ public class VerifyingAnAlienDictionary {
             String a = words[i - 1], b = words[i];
             for (int j = 0; j < a.length(); j++) {
                 if (j == b.length()) {
-                    return false;
+                    return  false;
                 }
                 char achar = a.charAt(j), bchar = b.charAt(j);
                 if (map.get(achar) < map.get(bchar)) {
                     break;
                 }
                 if (map.get(achar) > map.get(bchar)) {
-                    return false;
+                    return  false;
                 }
             }
         }
-        return true;
+        return  true;
     }
 }

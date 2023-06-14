@@ -23,6 +23,6 @@ public class SeparateTheDigitsInAnArray {
         for (int i = list.size() - 1; i >= 0; i--) {
             ans[i] = list.get(i);
         }
-        return ans;
+        return  ans;
     }
 }

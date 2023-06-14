@@ -15,6 +15,6 @@ public class MinimumDistanceToTheTargetElement {
                 ans = Math.min(ans, Math.abs(i - start));
             }
         }
-        return ans;
+        return  ans;
     }
 }

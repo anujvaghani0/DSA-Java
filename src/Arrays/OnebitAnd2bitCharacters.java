@@ -17,6 +17,6 @@ public class OnebitAnd2bitCharacters {
                 i++;
             }
         }
-        return i == bits.length - 1;
+        return  i == bits.length - 1;
     }
 }

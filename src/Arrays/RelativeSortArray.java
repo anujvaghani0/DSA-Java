@@ -42,6 +42,6 @@ public class RelativeSortArray {
             ans[z]=temp[i];
             z++;
         }
-        return ans;
+        return  ans;
     }
 }

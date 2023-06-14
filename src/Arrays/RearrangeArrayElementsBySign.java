@@ -21,7 +21,7 @@ public class RearrangeArrayElementsBySign {
                 posIndex += 2;
             }
         }
-        return ans;
+        return  ans;
     }
 
 
@@ -41,6 +41,6 @@ public class RearrangeArrayElementsBySign {
 //            ans[2 * i] = positive.get(i);
 //            ans[2 * i + 1] = Negative.get(i);
 //        }
-//        return ans;
+//        return  ans;
 //    }
 }

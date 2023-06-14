@@ -8,7 +8,7 @@ public class MaximizeDistanceToClosestPerson {
 
     public static int maxDistToClosest(int[] seats) {
         if (seats == null) {
-            return 0;
+            return  0;
         }
         int max = 1;
         int left = 0;
@@ -27,6 +27,6 @@ public class MaximizeDistanceToClosestPerson {
             }
             left++;
         }
-        return max;
+        return  max;
     }
 }

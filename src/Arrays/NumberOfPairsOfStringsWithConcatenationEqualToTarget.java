@@ -17,6 +17,6 @@ public class NumberOfPairsOfStringsWithConcatenationEqualToTarget {
                 }
             }
         }
-        return count;
+        return  count;
     }
 }

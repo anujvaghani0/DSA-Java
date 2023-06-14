@@ -10,7 +10,7 @@ public class ArrayPairSumDivisibilityProblem {
 
     public static boolean canPair(int[] nums, int k) {
         if (nums.length % 2 == 1) {
-            return false;
+            return  false;
         }
 
         int[] temp = new int[100001];
@@ -25,9 +25,9 @@ public class ArrayPairSumDivisibilityProblem {
 
         for (int i = 0; i < temp.length; i++) {
             if (temp[i] > 0) {
-                return false;
+                return  false;
             }
         }
-        return true;
+        return  true;
     }
 }

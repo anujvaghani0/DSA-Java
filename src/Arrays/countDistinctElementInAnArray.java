@@ -16,6 +16,6 @@ public class countDistinctElementInAnArray {
                 }
             }
         }
-        return count;
+        return  count;
     }
 }

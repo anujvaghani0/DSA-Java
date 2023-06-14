@@ -18,6 +18,6 @@ public class MaximumCountOfPositiveIntegerAndNegativeInteger {
                 p++;
             }
         }
-        return Math.max(n, p);
+        return  Math.max(n, p);
     }
 }

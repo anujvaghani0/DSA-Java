@@ -15,6 +15,6 @@ public class MinimumTimeVisitingAllPoints {
             int b = points[i + 1][1];
             time += Math.max(Math.abs(a - x), Math.abs(b - y));
         }
-        return time;
+        return  time;
     }
 }

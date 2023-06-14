@@ -17,13 +17,12 @@ public class WaveArray {
             a[1] = temp;
         }
         for (int i = 1; i < n - 1; ) {
+            int temp = a[i];
             if (i % 2 == 0) {
-                int temp = a[i];
                 a[i] = a[i + 1];
                 a[i + 1] = temp;
                 i += 2;
             } else {
-                int temp = a[i];
                 a[i] = a[i - 1];
                 a[i - 1] = temp;
                 i++;

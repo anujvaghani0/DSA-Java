@@ -18,6 +18,6 @@ public class MinimumMovesToEqualArrayElementsII {
             i++;
             j--;
         }
-        return count;
+        return  count;
     }
 }

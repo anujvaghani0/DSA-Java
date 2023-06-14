@@ -43,6 +43,6 @@ public class TwoOutOfThree {
         List<Integer> newList = ans.stream()
                 .distinct()
                 .collect(Collectors.toList());
-        return newList;
+        return  newList;
     }
 }

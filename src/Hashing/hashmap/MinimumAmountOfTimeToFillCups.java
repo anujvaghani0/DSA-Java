@@ -1,4 +1,4 @@
-package Hashing.hashmap;
+package Hashing.hashmap; 
 
 // Question link -> https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
 

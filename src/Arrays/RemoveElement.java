@@ -15,6 +15,6 @@ public class RemoveElement {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

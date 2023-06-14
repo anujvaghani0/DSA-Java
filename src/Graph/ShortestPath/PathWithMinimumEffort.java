@@ -1,4 +1,4 @@
-package Graph.ShortestPath;
+package Graph.ShortestPath; 
 
 // Question link -> https://leetcode.com/problems/path-with-minimum-effort/
 

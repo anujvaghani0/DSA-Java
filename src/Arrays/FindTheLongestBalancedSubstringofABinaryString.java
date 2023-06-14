@@ -24,7 +24,7 @@ public class FindTheLongestBalancedSubstringofABinaryString {
             int count = Math.min(count1, count0);
             ans = Math.max(ans, 2 * count);
         }
-        return ans;
+        return  ans;
     }
 }
 

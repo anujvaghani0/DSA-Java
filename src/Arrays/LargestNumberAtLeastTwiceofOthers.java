@@ -22,8 +22,8 @@ public class LargestNumberAtLeastTwiceofOthers {
             }
         }
         if (first / 2 >= nums[nums.length - 2]) {
-            return index;
+            return  index;
         }
-        return -1;
+        return  -1;
     }
 }

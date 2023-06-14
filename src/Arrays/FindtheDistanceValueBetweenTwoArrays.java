@@ -17,6 +17,6 @@ public class FindtheDistanceValueBetweenTwoArrays {
                 }
             }
         }
-        return count;
+        return  count;
     }
 }

@@ -15,7 +15,7 @@ public class CountNicePairsInAnArray {
                 }
             }
         }
-        return count;
+        return  count;
     }
 
 
@@ -26,6 +26,6 @@ public class CountNicePairsInAnArray {
             sum = (sum * 10) + rem;
             n = n / 10;
         }
-        return sum;
+        return  sum;
     }
 }

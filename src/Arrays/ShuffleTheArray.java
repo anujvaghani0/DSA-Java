@@ -25,6 +25,6 @@ public class ShuffleTheArray {
             i++;
             j++;
         }
-        return ans;
+        return  ans;
     }
 }

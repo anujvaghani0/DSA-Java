@@ -36,7 +36,7 @@ public class MaximumSubsequenceScore {
             sum += nums[i]._first;
             result = Math.max(result, sum * nums[i]._second);
         }
-        return result;
+        return  result;
     }
 
     static class Pair {

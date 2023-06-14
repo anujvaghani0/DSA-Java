@@ -9,7 +9,7 @@ public class MaximumProductOfThreeNumber {
 
     public static int maximumProduct(int[] arr) {
         if (arr.length < 3) {
-            return -1;
+            return  -1;
         }
         int minFirst = Integer.MAX_VALUE;
         int minSecond = Integer.MAX_VALUE;
@@ -34,6 +34,6 @@ public class MaximumProductOfThreeNumber {
                 third = arr[i];
             }
         }
-        return Math.max(minFirst * minSecond * first, first * second * third);
+        return  Math.max(minFirst * minSecond * first, first * second * third);
     }
 }

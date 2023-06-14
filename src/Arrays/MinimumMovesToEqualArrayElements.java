@@ -8,7 +8,7 @@ public class MinimumMovesToEqualArrayElements {
 
     public static int minMoves(int[] nums) {
         if (nums.length == 0) {
-            return 0;
+            return  0;
         }
         int min = nums[0];
         for (int i = 0; i < nums.length; i++) {
@@ -18,6 +18,6 @@ public class MinimumMovesToEqualArrayElements {
         for (int i = 0; i < nums.length; i++) {
             ans += nums[i] - min;
         }
-        return ans;
+        return  ans;
     }
 }

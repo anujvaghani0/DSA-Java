@@ -37,6 +37,6 @@ public class MinimizeTheMaximumOfTwoArrays {
 //                }
 //            }
         }
-        return max;
+        return  max;
     }
 }

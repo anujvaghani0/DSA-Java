@@ -13,13 +13,13 @@ public class CheckIfMatrixIsXMatrix {
             for (int j = 0; j < n; j++) {
                 if (i == j || i + j == n - 1) {
                     if (grid[i][j] == 0) {
-                        return false;
+                        return  false;
                     }
                 } else if (grid[i][j] != 0) {
-                    return false;
+                    return  false;
                 }
             }
         }
-        return true;
+        return  true;
     }
 }

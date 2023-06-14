@@ -20,6 +20,6 @@ public class MeanOfArrayAfterRemovingSomeElements {
             total -= arr[i];
         }
         length -= (2 * toRemove);
-        return (double) ((double) (total) / (double) (length));
+        return  (double) ((double) (total) / (double) (length));
     }
 }

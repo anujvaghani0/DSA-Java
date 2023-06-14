@@ -17,10 +17,10 @@ public class KthLargestElementInAnArray {
             } else if (pivot > index) {
                 end = pivot - 1;
             } else {
-                return nums[pivot];
+                return  nums[pivot];
             }
         }
-        return nums[start];
+        return  nums[start];
     }
 
     private static int partion(int[] nums, int start, int end) {
@@ -42,6 +42,6 @@ public class KthLargestElementInAnArray {
         temp = nums[end];
         nums[end] = nums[pivot];
         nums[pivot] = temp;
-        return end;
+        return  end;
     }
 }

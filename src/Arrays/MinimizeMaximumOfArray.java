@@ -13,6 +13,6 @@ public class MinimizeMaximumOfArray {
             sum += nums[i];
             ans = Math.max(ans, (sum + i) / (i + 1));
         }
-        return (int) ans;
+        return  (int) ans;
     }
 }

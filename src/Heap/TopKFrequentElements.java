@@ -25,6 +25,6 @@ public class TopKFrequentElements {
         while (!pq.isEmpty() && index < k) {
             ans[index++] = pq.remove();
         }
-        return ans;
+        return  ans;
     }
 }

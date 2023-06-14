@@ -13,13 +13,13 @@ public class CheckIfAll1sAreAtLeastLengthKPlacesAway {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 1) {
                 if (spaces < k) {
-                    return false;
+                    return  false;
                 }
                 spaces = 0;
             } else {
                 spaces++;
             }
         }
-        return true;
+        return  true;
     }
 }

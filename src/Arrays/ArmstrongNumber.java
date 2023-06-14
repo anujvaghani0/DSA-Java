@@ -32,6 +32,6 @@ public class ArmstrongNumber {
             leg++;
             n=n/10;
         }
-        return leg;
+        return  leg;
     }
 }

@@ -25,6 +25,6 @@ public class NextGreaterElementI {
                 }
             }
         }
-        return ans;
+        return  ans;
     }
 }

@@ -16,6 +16,6 @@ public class ThreeGreatCandidates {
         for (int i = n - 1; i >= n - 3; i--) {
             ans *= arr[i];
         }
-        return ans;
+        return  ans;
     }
 }

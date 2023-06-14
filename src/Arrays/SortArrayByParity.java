@@ -19,7 +19,7 @@ public class SortArrayByParity {
                 swap(nums, i, j);
             }
         }
-        return nums;
+        return  nums;
     }
 
     private static void swap(int[] A, int i, int j) {

@@ -11,7 +11,7 @@ public class MoveAllZeroesToEndOfArray {
     }
 
     public static void pushZerosToEnd(int[] arr, int n) {
-        if (arr.length == 0 || arr == null) {
+        if (arr.length == 0) {
             return;
         }
         int j = 0;

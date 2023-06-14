@@ -12,7 +12,7 @@ public class FindtheMiddleIndexInArray {
         int leftsum = 0;
         int rightsum = 0;
         if (nums.length == 0) {
-            return -1;
+            return  -1;
         }
         for (int i = 0; i < nums.length; i++) {
             rightsum += nums[i];
@@ -21,10 +21,10 @@ public class FindtheMiddleIndexInArray {
         for (int i = 0; i < nums.length; i++) {
             rightsum -= nums[i];
             if (rightsum == leftsum) {
-                return i;
+                return  i;
             }
             leftsum += nums[i];
         }
-        return -1;
+        return  -1;
     }
 }

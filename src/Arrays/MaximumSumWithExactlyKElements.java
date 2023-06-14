@@ -17,6 +17,6 @@ public class MaximumSumWithExactlyKElements {
             nums[n - 1] = nums[n - 1] + 1;
             k--;
         }
-        return sum;
+        return  sum;
     }
 }

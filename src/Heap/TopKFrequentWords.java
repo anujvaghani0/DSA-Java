@@ -21,9 +21,9 @@ public class TopKFrequentWords {
 
         PriorityQueue<Map.Entry<String, Integer>> pq = new PriorityQueue<>((a, b) -> {
             if (Objects.equals(a.getValue(), b.getValue())) {
-                return a.getKey().compareTo(b.getKey());
+                return  a.getKey().compareTo(b.getKey());
             } else {
-                return b.getValue() - a.getValue();
+                return  b.getValue() - a.getValue();
             }
         });
 
@@ -36,6 +36,6 @@ public class TopKFrequentWords {
         for (int i = 0; i < k; i++) {
             list.add(pq.poll().getKey());
         }
-        return list;
+        return  list;
     }
 }

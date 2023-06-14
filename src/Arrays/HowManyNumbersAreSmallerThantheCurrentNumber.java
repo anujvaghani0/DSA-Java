@@ -19,6 +19,6 @@ public class HowManyNumbersAreSmallerThantheCurrentNumber {
             }
             ans[i]=count;
         }
-        return ans;
+        return  ans;
     }
 }

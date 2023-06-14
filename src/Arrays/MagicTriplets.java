@@ -25,6 +25,6 @@ public class MagicTriplets {
             }
             count += small * large;
         }
-        return count;
+        return  count;
     }
 }

@@ -15,6 +15,6 @@ public class SmallestIndexWithEqualValue {
                 min = Math.min(min, i);
             }
         }
-        return min == Integer.MAX_VALUE ? -1 : min;
+        return  min == Integer.MAX_VALUE ? -1 : min;
     }
 }

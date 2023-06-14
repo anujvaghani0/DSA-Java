@@ -20,11 +20,11 @@ public class UniqueNumberOfOccurrences {
                 count++;
             }
             if (occurrences[count]) {
-                return false;
+                return  false;
             } else {
                 occurrences[count] = true;
             }
         }
-        return true;
+        return  true;
     }
 }

@@ -15,6 +15,6 @@ public class FindTheHighestAltitude {
             currentAltitude += gain[i];
             maxAltitude = Math.max(currentAltitude, maxAltitude);
         }
-        return maxAltitude;
+        return  maxAltitude;
     }
 }

@@ -30,6 +30,6 @@ public class KItemsWiththeMaximumSum {
         for (int i = 0; i < k; i++) {
             sum += temp.get(i);
         }
-        return sum;
+        return  sum;
     }
 }

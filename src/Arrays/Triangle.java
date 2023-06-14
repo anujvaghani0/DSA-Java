@@ -17,6 +17,6 @@ public class Triangle {
                 ans[j] = Math.min(ans[j], ans[j + 1]) + triangle.get(i).get(j);
             }
         }
-        return ans[0];
+        return  ans[0];
     }
 }

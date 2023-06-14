@@ -36,6 +36,6 @@ public class MinimumNumberOfRemovalsToMakeMountainArray {
                 ans = Math.max(ansLeft[i] + ansRight[i] - 1, ans);
             }
         }
-        return n - ans;
+        return  n - ans;
     }
 }

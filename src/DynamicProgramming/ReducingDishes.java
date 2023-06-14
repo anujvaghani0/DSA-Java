@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package DynamicProgramming; 
 
 // Question link -> https://leetcode.com/problems/reducing-dishes/
 

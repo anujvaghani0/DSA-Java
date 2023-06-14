@@ -23,6 +23,6 @@ public class CountPairsWithGivenSum {
                 right--;
             }
         }
-        return count;
+        return  count;
     }
 }

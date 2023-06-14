@@ -22,6 +22,6 @@ public class NumberOfRectanglesThatCanFormTheLargestSquare {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

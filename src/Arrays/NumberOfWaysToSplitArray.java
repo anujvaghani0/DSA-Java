@@ -21,6 +21,6 @@ public class NumberOfWaysToSplitArray {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

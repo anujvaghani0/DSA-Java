@@ -27,6 +27,6 @@ public class TakeGiftsFromTheRichestPile {
         while (!pq.isEmpty()) {
             left += pq.poll();
         }
-        return left;
+        return  left;
     }
 }

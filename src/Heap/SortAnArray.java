@@ -13,7 +13,7 @@ public class SortAnArray {
     private static ArrayList<Integer> kSort(int[] arr, int n, int k) {
         ArrayList<Integer> ls = new ArrayList<>();
         if (arr == null || arr.length == 0) {
-            return new ArrayList<>();
+            return  new ArrayList<>();
         }
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         int minCount = Math.min(arr.length, k + 1);
@@ -32,6 +32,6 @@ public class SortAnArray {
             ls.add(pq.peek());
             pq.poll();
         }
-        return ls;
+        return  ls;
     }
 }

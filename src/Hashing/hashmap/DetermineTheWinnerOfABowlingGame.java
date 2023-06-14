@@ -1,4 +1,4 @@
-package Hashing.hashmap;
+package Hashing.hashmap; 
 
 public class DetermineTheWinnerOfABowlingGame {
     public static void main(String[] args) {

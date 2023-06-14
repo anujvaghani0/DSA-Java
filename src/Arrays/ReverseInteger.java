@@ -11,11 +11,11 @@ public class ReverseInteger {
             int tail = x % 10;
             int newResult = result * 10 + tail;
             if ((newResult - tail) / 10 != result) {
-                    return 0;
+                    return  0;
             }
             result=newResult;
             x=x/10;
         }
-        return result;
+        return  result;
     }
 }

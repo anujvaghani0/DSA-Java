@@ -17,6 +17,6 @@ public class CountGoodTriplets {
                 }
             }
         }
-        return count;
+        return  count;
     }
 }

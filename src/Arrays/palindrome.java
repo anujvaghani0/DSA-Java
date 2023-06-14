@@ -15,8 +15,8 @@ public class palindrome {
             n = n / 10;
         }
         if (ans == temp) {
-            return true;
+            return  true;
         }
-        return false;
+        return  false;
     }
 }

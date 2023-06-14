@@ -15,6 +15,6 @@ public class NumberofZeroFilledSubarrays {
                 ans += i - j + 1;
             }
         }
-        return ans;
+        return  ans;
     }
 }

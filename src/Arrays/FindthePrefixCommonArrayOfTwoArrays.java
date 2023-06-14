@@ -19,6 +19,6 @@ public class FindthePrefixCommonArrayOfTwoArrays {
             }
             C[i] = count;
         }
-        return C;
+        return  C;
     }
 }

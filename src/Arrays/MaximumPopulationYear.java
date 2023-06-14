@@ -23,6 +23,6 @@ public class MaximumPopulationYear {
                 maxYears = i;
             }
         }
-        return maxYears;
+        return  maxYears;
     }
 }

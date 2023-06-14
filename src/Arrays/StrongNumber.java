@@ -10,7 +10,7 @@ public class StrongNumber {
         for (int i = 1; i <= n; i++) {
             sum = sum * i;
         }
-        return sum;
+        return  sum;
     }
 
     public static boolean StrongNo(int n) {
@@ -22,8 +22,8 @@ public class StrongNumber {
             temp = temp / 10;
         }
         if (sum == n) {
-            return true;
+            return  true;
         }
-        return false;
+        return  false;
     }
 }

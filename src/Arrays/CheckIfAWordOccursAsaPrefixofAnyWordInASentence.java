@@ -16,6 +16,6 @@ public class CheckIfAWordOccursAsaPrefixofAnyWordInASentence {
                 break;
             }
         }
-        return count;
+        return  count;
     }
 }

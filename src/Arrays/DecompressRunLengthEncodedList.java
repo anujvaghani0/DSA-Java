@@ -22,7 +22,7 @@ public class DecompressRunLengthEncodedList {
             Arrays.fill(results, startIndex, startIndex + nums[i], nums[i + 1]);
             startIndex += nums[i];
         }
-        return results;
+        return  results;
 
 
 //        List<Integer> temp = new ArrayList<>();
@@ -38,6 +38,6 @@ public class DecompressRunLengthEncodedList {
 //        for (int i = 0; i < temp.size(); i++) {
 //            ans[i] = temp.get(i);
 //        }
-//        return ans;
+//        return  ans;
     }
 }

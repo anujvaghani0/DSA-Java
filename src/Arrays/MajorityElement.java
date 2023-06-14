@@ -19,6 +19,6 @@ public class MajorityElement {
                 count -= 1;
             }
         }
-        return max;
+        return  max;
     }
 }

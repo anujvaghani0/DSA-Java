@@ -13,12 +13,12 @@ public class CheckIfStringIsAPrefixOfArray {
         for (String word : words) {
             ans.append(word);
             if (s.equals(ans.toString())) {
-                return true;
+                return  true;
             }
             if (!s.contains(ans.toString())) {
-                return false;
+                return  false;
             }
         }
-        return false;
+        return  false;
     }
 }

@@ -23,6 +23,6 @@ public class MinimumCostOfRopes {
             ans += cost;
             pq.add(cost);
         }
-        return ans;
+        return  ans;
     }
 }

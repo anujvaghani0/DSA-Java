@@ -17,7 +17,7 @@ public class NumberOfLaserBeamsInABank {
                 previous_num = current_num;
             }
         }
-        return beams;
+        return  beams;
     }
 
     private static int countOnces(String s) {
@@ -27,6 +27,6 @@ public class NumberOfLaserBeamsInABank {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

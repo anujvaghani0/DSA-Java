@@ -1,4 +1,4 @@
-package Hashing.hashmap;
+package Hashing.hashmap; 
 
 // Question link -> https://leetcode.com/problems/majority-element-ii/
 

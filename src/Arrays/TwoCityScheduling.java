@@ -22,6 +22,6 @@ public class TwoCityScheduling {
         for (int i = 0; i < N; i++) {
             minCost += refund[i];
         }
-        return minCost;
+        return  minCost;
     }
 }

@@ -31,6 +31,6 @@ public class DefuseTheBomb {
             sum -= code[(start++) % code.length];
             sum += code[(++end) % code.length];
         }
-        return ans;
+        return  ans;
     }
 }

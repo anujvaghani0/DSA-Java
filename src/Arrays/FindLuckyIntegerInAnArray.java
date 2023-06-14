@@ -20,6 +20,6 @@ public class FindLuckyIntegerInAnArray {
                 max = i;
             }
         }
-        return max;
+        return  max;
     }
 }

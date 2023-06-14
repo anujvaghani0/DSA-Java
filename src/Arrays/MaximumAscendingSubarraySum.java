@@ -19,6 +19,6 @@ public class MaximumAscendingSubarraySum {
             }
             ans = Math.max(ans, temp);
         }
-        return ans;
+        return  ans;
     }
 }

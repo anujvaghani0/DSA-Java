@@ -19,9 +19,9 @@ public class JumpGameII {
                 jumps++;
             }
 //            if (nums[nums.length-1]==curReach){
-//                return true;
+//                return  true;
 //            }
         }
-        return jumps;
+        return  jumps;
     }
 }

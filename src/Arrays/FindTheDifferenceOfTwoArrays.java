@@ -29,6 +29,6 @@ public class FindTheDifferenceOfTwoArrays {
         }
         ans.add(ans1);
         ans.add(ans2);
-        return ans;
+        return  ans;
     }
 }

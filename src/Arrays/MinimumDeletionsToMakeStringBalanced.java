@@ -33,6 +33,6 @@ public class MinimumDeletionsToMakeStringBalanced {
         for (int i = 0; i < s.length(); i++) {
             ans = Math.min(ans, as[i] + bs[i]);
         }
-        return ans;
+        return  ans;
     }
 }

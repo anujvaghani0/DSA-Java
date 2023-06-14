@@ -13,6 +13,6 @@ public class ThirdMaximumNumber {
         for (Integer n : nums) {
 
         }
-        return 0;
+        return  0;
     }
 }

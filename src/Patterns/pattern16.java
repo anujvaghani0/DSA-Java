@@ -1,4 +1,4 @@
-package Patterns;
+package Patterns; 
 
 public class pattern16 {
     public static void main(String[] args) {
@@ -10,11 +10,11 @@ public class pattern16 {
         for (f = 1; n > 1; n--) {
             f *= n;
         }
-        return f;
+        return  f;
     }
 
     public static int ncr(int n, int r) {
-        return factorial(n) / (factorial(n - r) * factorial(r));
+        return  factorial(n) / (factorial(n - r) * factorial(r));
     }
 
     public static void pattern(int n) {

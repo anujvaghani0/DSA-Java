@@ -19,6 +19,6 @@ public class MostFrequentEvenElement {
                 }
             }
         }
-        return ans == 1 ? -1 : ans;
+        return  ans == 1 ? -1 : ans;
     }
 }

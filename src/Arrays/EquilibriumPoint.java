@@ -17,10 +17,10 @@ public class EquilibriumPoint {
         for (int i = 0; i < arr.length; i++) {
             sum -= arr[i];
             if (checksum == sum) {
-                return i + 1;
+                return  i + 1;
             }
             checksum += arr[i];
         }
-        return -1;
+        return  -1;
     }
 }

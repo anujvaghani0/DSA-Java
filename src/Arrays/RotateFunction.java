@@ -21,6 +21,6 @@ public class RotateFunction {
             temp = temp + ans - (nums.length * nums[i]);
             max = Math.max(temp, max);
         }
-        return max;
+        return  max;
     }
 }

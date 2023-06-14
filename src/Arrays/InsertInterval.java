@@ -25,6 +25,6 @@ public class InsertInterval {
             }
         }
         ans.add(toAdd);
-        return ans.toArray(new int[ans.size()][2]);
+        return  ans.toArray(new int[ans.size()][2]);
     }
 }

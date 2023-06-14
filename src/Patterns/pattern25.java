@@ -1,4 +1,4 @@
-package Patterns;
+package Patterns; 
 
 public class pattern25 {
     public static void main(String[] args) {

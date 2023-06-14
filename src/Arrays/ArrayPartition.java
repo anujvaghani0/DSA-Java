@@ -14,6 +14,6 @@ public class ArrayPartition {
         for (int i = 0; i < nums.length - 1; i += 2) {
             ans += Math.min(nums[i], nums[i + 1]);
         }
-        return ans;
+        return  ans;
     }
 }

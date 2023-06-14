@@ -7,7 +7,7 @@ public class DistributeMoneyToMaximumChildren {
 
 //    public static int distMoney(int money, int children) {
 //            if (money<children){
-//                return -1;
+//                return  -1;
 //            }
 //
 //            int[] arr=new int[children];

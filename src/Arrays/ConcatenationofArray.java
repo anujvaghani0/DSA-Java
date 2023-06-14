@@ -14,6 +14,6 @@ public class ConcatenationofArray {
         for (int i=0;i<nums.length;i++){
             ans[nums.length+i]=nums[i];
         }
-        return ans;
+        return  ans;
     }
 }

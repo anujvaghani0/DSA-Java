@@ -1,4 +1,4 @@
-package Graph.BFS_DFS;
+package Graph.BFS_DFS; 
 
 // Question link -> https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 

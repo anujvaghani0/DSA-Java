@@ -18,7 +18,7 @@ public class SingleElementInASortedArray {
                 low = mid + 1;
             }
         }
-        return nums[2 * low];
+        return  nums[2 * low];
 
 //        2Nd Solutions
 //        int i=0;
@@ -28,12 +28,12 @@ public class SingleElementInASortedArray {
 //                count++;
 //                i+=2;
 //            }else{
-//                return nums[i];
+//                return  nums[i];
 //            }
 //        }
 //        if (count!=0){
-//            return nums[nums.length-1];
+//            return  nums[nums.length-1];
 //        }
-//        return nums[0];
+//        return  nums[0];
     }
 }

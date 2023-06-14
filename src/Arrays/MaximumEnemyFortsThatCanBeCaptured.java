@@ -22,6 +22,6 @@ public class MaximumEnemyFortsThatCanBeCaptured {
                 }
             }
         }
-        return max;
+        return  max;
     }
 }

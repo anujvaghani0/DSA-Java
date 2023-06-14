@@ -25,20 +25,20 @@ public class NextPermutation {
     private static int indexOfLastPeek(int[] nums) {
         for (int i = nums.length - 1; i > 0; i--) {
             if (nums[i - 1] < nums[i]) {
-                return i;
+                return  i;
             }
         }
-        return 0;
+        return  0;
     }
 
 
     private static int lastIndexOfGreater(int[] nums, int threshold) {
         for (int i = nums.length - 1; i >= 0; i--) {
             if (threshold < nums[i]) {
-                return i;
+                return  i;
             }
         }
-        return -1;
+        return  -1;
     }
 
     private static void swap(int[] nums, int i, int j) {

@@ -20,6 +20,6 @@ public class ProductOfArrayExceptSelf {
             ans[i] *= right;
             right *= nums[i];
         }
-        return ans;
+        return  ans;
     }
 }

@@ -15,6 +15,6 @@ public class SmallestRangeI {
             min = Math.min(min, nums[i]);
             max = Math.max(max, nums[i]);
         }
-        return (min + k >= max - k) ? 0 : (max - k) - (min - k);
+        return  (min + k >= max - k) ? 0 : (max - k) - (min - k);
     }
 }

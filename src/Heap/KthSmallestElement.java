@@ -17,6 +17,6 @@ public class KthSmallestElement {
                 pq.poll();
             }
         }
-        return pq.peek();
+        return  pq.peek();
     }
 }

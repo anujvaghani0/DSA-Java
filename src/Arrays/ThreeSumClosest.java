@@ -17,7 +17,7 @@ public class ThreeSumClosest {
                 }
             }
         }
-        return max;
+        return  max;
     }
 }
 

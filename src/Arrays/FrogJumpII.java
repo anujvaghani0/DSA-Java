@@ -14,6 +14,6 @@ public class FrogJumpII {
             int ans = stones[i] - stones[i - 2];
             currentAns = Math.max(currentAns, ans);
         }
-        return currentAns;
+        return  currentAns;
     }
 }

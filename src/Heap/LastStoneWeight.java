@@ -25,6 +25,6 @@ public class LastStoneWeight {
             }
         }
 
-        return pq.isEmpty() ? 0 : pq.peek();
+        return  pq.isEmpty() ? 0 : pq.peek();
     }
 }

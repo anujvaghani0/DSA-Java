@@ -8,7 +8,7 @@ public class ValidMountainArray {
 
     public static boolean validMountainArray(int[] arr) {
         if (arr.length < 3) {
-            return false;
+            return  false;
         }
         int start = 0;
         int end = arr.length - 1;
@@ -21,6 +21,6 @@ public class ValidMountainArray {
                 break;
             }
         }
-        return start != 0 && end != arr.length - 1 && start == end;
+        return  start != 0 && end != arr.length - 1 && start == end;
     }
 }

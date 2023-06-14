@@ -11,7 +11,7 @@ public class RemoveDuplicatesfromSortedArrayII {
     public static int removeDuplicates(int[] nums) {
         int n = nums.length;
         if (n < 3) {
-            return n;
+            return  n;
         }
         int i = 2;
         for (int j = i; j < n; j++) {
@@ -19,6 +19,6 @@ public class RemoveDuplicatesfromSortedArrayII {
               nums[i++]=nums[j];
             }
         }
-        return i;
+        return  i;
     }
 }

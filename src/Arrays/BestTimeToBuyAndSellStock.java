@@ -16,6 +16,6 @@ public class BestTimeToBuyAndSellStock {
             int profit = prices[i] - difference;
             maximumProfit = Math.max(maximumProfit, profit);
         }
-        return maximumProfit;
+        return  maximumProfit;
     }
 }

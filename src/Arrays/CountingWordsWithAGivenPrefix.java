@@ -15,6 +15,6 @@ public class CountingWordsWithAGivenPrefix {
                 count++;
             }
         }
-        return count;
+        return  count;
     }
 }

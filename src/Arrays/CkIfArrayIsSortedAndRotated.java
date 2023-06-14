@@ -13,9 +13,9 @@ public class CkIfArrayIsSortedAndRotated {
                 k++;
             }
             if (k > 1) {
-                return false;
+                return  false;
             }
         }
-        return true;
+        return  true;
     }
 }

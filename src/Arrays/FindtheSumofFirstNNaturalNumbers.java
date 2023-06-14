@@ -10,6 +10,6 @@ public class FindtheSumofFirstNNaturalNumbers {
         for (int i=0;i<n;i++){
             sum=sum+i;
         }
-        return sum;
+        return  sum;
     }
 }
