@@ -1,4 +1,4 @@
-package DynamicProgramming; 
+package DynamicProgramming;  
 
 // Question link ->https://leetcode.com/problems/pizza-with-3n-slices/
 

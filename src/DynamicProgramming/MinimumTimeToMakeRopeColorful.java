@@ -1,4 +1,4 @@
-package DynamicProgramming; 
+package DynamicProgramming;  
 
 // Question link -> https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 

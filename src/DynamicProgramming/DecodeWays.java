@@ -1,4 +1,4 @@
-package DynamicProgramming; 
+package DynamicProgramming;  
 
 public class DecodeWays {
     public static void main(String[] args) {
