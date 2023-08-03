@@ -60,6 +60,7 @@ public class sudokuSolver {
         }
 
 //        backtrack
+
         for (int number = 0; number <= 9; number++) {
             if (isSafe(board, row, col, number)) {
                 board[row][col] = number;
